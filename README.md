@@ -31,6 +31,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [The Boys of Summer](https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy?si=-IobpV_xTJ2AuDm2HTNT5g) by The Ataris ([tab](https://www.ultimate-guitar.com/search.php?title=The+Ataris+The+Boys+of+Summer))
 - [i](https://open.spotify.com/track/7wdzLe2Gsx1RGqbvYZHASz?si=rwQHZiA6RRWYkq4BEJsC2Q) by Kendrick Lamar ([tab](https://www.ultimate-guitar.com/search.php?title=Kendrick+Lamar+i))
 - [Believe](https://open.spotify.com/track/4Wvr1YaxNsCujq77dKujys?si=2-vKGSJ7SKe7l31jsuHo2Q) by The Bravery ([tab](https://www.ultimate-guitar.com/search.php?title=The+Bravery+Believe))
 - [Here It Goes Again](https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD?si=5a9TdFu1RRuQ9wf0VgB39g) by OK Go ([tab](https://www.ultimate-guitar.com/search.php?title=OK+Go+Here+It+Goes+Again))
