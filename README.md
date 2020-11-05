@@ -31,6 +31,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Paradise City](https://open.spotify.com/track/5Fz2wrKAjhKpWeTwvE1Ct3?si=-8TjRH4LTmOE1ru7TyqRrg) by Guns N&#39; Roses ([tab](https://www.ultimate-guitar.com/search.php?title=Guns+N&#39;+Roses+Paradise+City))
 - [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg?si=JlarEVXLTTijPyQZ5ypNZQ) by Coldplay ([tab](https://www.ultimate-guitar.com/search.php?title=Coldplay+Yellow))
 - [Silvertongue](https://open.spotify.com/track/0yTJtxZJ5VLfBEHhiNUNeY?si=tQ68Y8AbSjiOLyerxdvVgA) by Young the Giant ([tab](https://www.ultimate-guitar.com/search.php?title=Young+the+Giant+Silvertongue))
 - [Happy Hour](https://open.spotify.com/track/6ILpnOUHollfHp4xWH7nqV?si=-qDp57VdRh2YuZppRZcEZw) by Weezer ([tab](https://www.ultimate-guitar.com/search.php?title=Weezer+Happy+Hour))
