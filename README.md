@@ -31,6 +31,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg?si=JlarEVXLTTijPyQZ5ypNZQ) by Coldplay ([tab](https://www.ultimate-guitar.com/search.php?title=Coldplay+Yellow))
 - [Silvertongue](https://open.spotify.com/track/0yTJtxZJ5VLfBEHhiNUNeY?si=tQ68Y8AbSjiOLyerxdvVgA) by Young the Giant ([tab](https://www.ultimate-guitar.com/search.php?title=Young+the+Giant+Silvertongue))
 - [Happy Hour](https://open.spotify.com/track/6ILpnOUHollfHp4xWH7nqV?si=-qDp57VdRh2YuZppRZcEZw) by Weezer ([tab](https://www.ultimate-guitar.com/search.php?title=Weezer+Happy+Hour))
 - [I Feel Like I&#39;m Drowning](https://open.spotify.com/track/42zJqS8TW1Lpsa186of3OY?si=4oTyySn8R5-wU-iHRwVhRg) by Two Feet ([tab](https://www.ultimate-guitar.com/search.php?title=Two+Feet+I+Feel+Like+I&#39;m+Drowning))
