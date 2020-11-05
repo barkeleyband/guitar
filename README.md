@@ -17,6 +17,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Stupid for You](https://open.spotify.com/track/1N7Aep1OewK9diaN9WbuuR?si=IybUUuOeT9iq3hki3sqyrQ) by Waterparks ([tab](https://www.ultimate-guitar.com/search.php?search_type=title&value=<meta property="twitter:title" content="Stupid for You))
 - I Miss You by Blink 182
 - Hang Me Up to Dry by Cold War Kids
 - [Stupid for You](https://open.spotify.com/track/1N7Aep1OewK9diaN9WbuuR?si=IybUUuOeT9iq3hki3sqyrQ) by Waterparks
