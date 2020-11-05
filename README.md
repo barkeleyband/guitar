@@ -31,6 +31,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Black Madonna](https://open.spotify.com/track/4Y6GIje3GErVRIq1Ff5BJq?si=dl71qlk-S0alF8Qp-1ezNg) by Cage The Elephant ([tab](https://www.ultimate-guitar.com/search.php?title=Cage+The+Elephant+Black+Madonna))
 - [Alaska](https://open.spotify.com/track/0sSoNYwZLoE4gLAKIG4uYL?si=7rqKJ1miS8aXGVJWvjiY3g) by Little Hurt ([tab](https://www.ultimate-guitar.com/search.php?title=Little+Hurt+Alaska))
 - [Good As It Gets](https://open.spotify.com/track/79HFFYAPOd80mvfOkwDv1n?si=dFI3fvwGRSO69kkTWMGbvw) by Little Hurt ([tab](https://www.ultimate-guitar.com/search.php?title=Little+Hurt+Good+As+It+Gets))
 - [loneliness for love](https://open.spotify.com/track/5Kth6cQqMCY9HSo0GbhjUF?si=sdJWgzIYRCaBrrprSyzcQw) by lovelytheband ([tab](https://www.ultimate-guitar.com/search.php?title=lovelytheband+loneliness+for+love))
