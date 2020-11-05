@@ -17,6 +17,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [You&#39;re Gonna Go Far, Kid](https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT?si=8Z3NzKvmTxq2hx4gYBcd7g) by The Offspring ([tab](https://www.ultimate-guitar.com/search.php?title=The+Offspring+You&#39;re+Gonna+Go+Far,+Kid))
 - [Wonderwall](https://open.spotify.com/track/1qPbGZqppFwLwcBC1JQ6Vr?si=z2pEiPrQQDOqPOqd9aQMoA) by Oasis ([tab](https://www.ultimate-guitar.com/search.php?title=Oasis+Wonderwall))
 - [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY?si=up8rGBAjTO-4ZiYHGXP58Q) by Harry Styles ([tab](https://www.ultimate-guitar.com/search.php?title=Harry+Styles+Watermelon+Sugar))
 - [Walk This Way](https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP?si=4XLtdf8BR9KA-pp3bDNPJA) by Aerosmith ([tab](https://www.ultimate-guitar.com/search.php?title=Aerosmith+Walk+This+Way))
