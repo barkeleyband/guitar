@@ -17,6 +17,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Cheap Beer and Nicotine](https://open.spotify.com/track/134U6Mp1fKxXIKLaSyo2ca?si=GrOBQsdYTemptCkRssS7lA) by littleDEATH ([tab](https://www.ultimate-guitar.com/search.php?title=littleDEATH+Cheap+Beer+and+Nicotine))
 - [Plate Tectonics](https://open.spotify.com/track/080IENUoropPZpu1IdqABZ?si=Z0THOVfMQkeOecM6hz9udQ) by When the Clock Strikes ([tab](https://www.ultimate-guitar.com/search.php?title=When+the+Clock+Strikes+Plate+Tectonics))
 - [Stupid for You](https://open.spotify.com/track/1N7Aep1OewK9diaN9WbuuR?si=IybUUuOeT9iq3hki3sqyrQ) by Waterparks ([tab](https://www.ultimate-guitar.com/search.php?title=Waterparks+Stupid+for+You))
 - [Weightless](https://open.spotify.com/track/0aZJGkkXR3DgaFqo5sB8ot?si=CITC_ix1QzyPIi_jYyEByQ) by All Time Low ([tab](https://www.ultimate-guitar.com/search.php?title=All+Time+Low+Weightless))
