@@ -84,6 +84,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Bass Songs Backlog
 
+- [Happy Hour](https://open.spotify.com/track/6ILpnOUHollfHp4xWH7nqV?si=-qDp57VdRh2YuZppRZcEZw) by Weezer ([tab](https://www.ultimate-guitar.com/search.php?title=Weezer+Happy+Hour))
 - [No Roots](https://open.spotify.com/track/4CdfFYzaAJ0y0beKzmgJSn?si=OoHY2jucR9iP0ZUoQWW6dA) by Alice Merton ([tab](https://www.ultimate-guitar.com/search.php?title=Alice+Merton+No+Roots))
 - [Burn The House Down](https://open.spotify.com/track/2HaYSyjZmqhFVviYOakAth?si=bAC4BG9JSF6dZgYkQkVKjA) by AJR ([tab](https://www.ultimate-guitar.com/search.php?title=AJR+Burn+The+House+Down))
 - [Where The Streets Have No Name](https://open.spotify.com/track/2TlXPShOrPn4K51fP0Fykd?si=G9yeuQFfQkWG9XjjEn9X0w) by U2 ([tab](https://www.ultimate-guitar.com/search.php?title=U2+Where+The+Streets+Have+No+Name))
