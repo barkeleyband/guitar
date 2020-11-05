@@ -30,8 +30,6 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Bass Songs Backlog
 
-I don't have a bass currently, but I'll get one someday and when I do I'll want songs to learn so here's some I've found!
-
 - [Complainer](https://open.spotify.com/track/6ikOGMtTgDxzZLrNuemotc?si=BKnQKEjrSXGXS18BE3Oj_A) by Cold War Kids
 
 <p align="center">
