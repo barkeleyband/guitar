@@ -17,6 +17,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [I Just Wanna Shine](https://open.spotify.com/track/4GZ3YCkuH0VvTluVLwUp4g?si=s4RZY1CpQ56JmJhFA3H0WQ) by Fitz and The Tantrums ([tab](https://www.ultimate-guitar.com/search.php?title=Fitz+and+The+Tantrums+I+Just+Wanna+Shine))
 - [Hotel California - 2013 Remaster](https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv?si=PVpukrJgRHepzowuhTYZPg) by Eagles ([tab](https://www.ultimate-guitar.com/search.php?title=Eagles+Hotel+California+-+2013+Remaster))
 - [High School Never Ends - Main Version - Explicit](https://open.spotify.com/track/1bhjMY5O0ZjB41OHcdRH0a?si=fo0dcbSoSp-iNZrOTB3bxg) by Bowling For Soup ([tab](https://www.ultimate-guitar.com/search.php?title=Bowling+For+Soup+High+School+Never+Ends+-+Main+Version+-+Explicit))
 - [Fly Away](https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW?si=0szhBU4SQVSh-nEBfyggQQ) by Lenny Kravitz ([tab](https://www.ultimate-guitar.com/search.php?title=Lenny+Kravitz+Fly+Away))
