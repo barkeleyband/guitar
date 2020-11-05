@@ -31,6 +31,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Monsters (feat. blackbear)](https://open.spotify.com/track/0tyR7Bu9P086aWBFZ4QJoo?si=4fbzn6ooQWCg08hB2_9Rnw) by All Time Low ([tab](https://www.ultimate-guitar.com/search.php?title=All+Time+Low+Monsters+(feat.+blackbear)))
 - [Lowkey As Hell](https://open.spotify.com/track/1syWM2X9Joy2MdRznIaTil?si=7CXGy7aUQNO4yuna1oF1OQ) by Waterparks ([tab](https://www.ultimate-guitar.com/search.php?title=Waterparks+Lowkey+As+Hell))
 - [You&#39;re Gonna Go Far, Kid](https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT?si=8Z3NzKvmTxq2hx4gYBcd7g) by The Offspring ([tab](https://tabs.ultimate-guitar.com/tab/the-offspring/youre-gonna-go-far-kid-official-1942431))
 - [Check Yes, Juliet](https://open.spotify.com/track/0wVluBsVAVzBKrqspuCcwR?si=Ur6c59oqS42PZzhSJ93B4g) by We The Kings ([tab](https://tabs.ultimate-guitar.com/tab/we-the-kings/check-yes-juliet-tabs-609373) and [tab](https://tabs.ultimate-guitar.com/tab/we-the-kings/check-yes-juliet-official-2284699))
