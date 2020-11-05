@@ -31,6 +31,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [What You Know](https://open.spotify.com/track/7oRgM9AfaDq0rm4ovEVYqG?si=rNpLL5TuRs-FfgF_Zgqs-Q) by Two Door Cinema Club ([tab](https://www.ultimate-guitar.com/search.php?title=Two+Door+Cinema+Club+What+You+Know))
 - [Steady, As She Goes](https://open.spotify.com/track/2zk1COXk7NaAaDW1KWMuio?si=eyNKdgcLQ2OQoQQ8SJfD4Q) by The Raconteurs ([tab](https://www.ultimate-guitar.com/search.php?title=The+Raconteurs+Steady,+As+She+Goes))
 - [Cough Syrup](https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q?si=n4eSPleuSbW7Ke3kSiqelg) by Young the Giant ([tab](https://www.ultimate-guitar.com/search.php?title=Young+the+Giant+Cough+Syrup))
 - [Paradise City](https://open.spotify.com/track/5Fz2wrKAjhKpWeTwvE1Ct3?si=-8TjRH4LTmOE1ru7TyqRrg) by Guns N&#39; Roses ([tab](https://www.ultimate-guitar.com/search.php?title=Guns+N&#39;+Roses+Paradise+City))
