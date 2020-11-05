@@ -81,6 +81,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Bass Songs Backlog
 
+- [Burn The House Down](https://open.spotify.com/track/2HaYSyjZmqhFVviYOakAth?si=bAC4BG9JSF6dZgYkQkVKjA) by AJR ([tab](https://www.ultimate-guitar.com/search.php?title=AJR+Burn+The+House+Down))
 - [Where The Streets Have No Name](https://open.spotify.com/track/2TlXPShOrPn4K51fP0Fykd?si=G9yeuQFfQkWG9XjjEn9X0w) by U2 ([tab](https://www.ultimate-guitar.com/search.php?title=U2+Where+The+Streets+Have+No+Name))
 - [Van Horn](https://open.spotify.com/track/4UgLRXh1z9NorzrdawpIgj?si=MtnZGW2nT1-Zp5hbz8E4_w) by Saint Motel ([tab](https://www.ultimate-guitar.com/search.php?title=Saint+Motel+Van+Horn))
 - [Alaska](https://open.spotify.com/track/0sSoNYwZLoE4gLAKIG4uYL?si=v7D6423jQKanWwrUFIZXyg) by Little Hurt ([tab](https://www.ultimate-guitar.com/search.php?title=Little+Hurt+Alaska))
