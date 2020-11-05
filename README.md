@@ -17,6 +17,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Talk Too Much](https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq?si=30gGNzC6RM6QyE2y3SHDfw) by COIN ([tab](https://www.ultimate-guitar.com/search.php?title=COIN+Talk+Too+Much))
 - [Some Kind of Disaster](https://open.spotify.com/track/02lU0Hj680zVexT4GqJJZ4?si=L0spxHi4QqWu7k8ORUqgIA) by All Time Low ([tab](https://www.ultimate-guitar.com/search.php?title=All+Time+Low+Some+Kind+of+Disaster))
 - [Ocean Avenue](https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx?si=Nk9D8vO5QYyRHCscdbBZxw) by Yellowcard ([tab](https://www.ultimate-guitar.com/search.php?title=Yellowcard+Ocean+Avenue))
 - [Monkey Wrench](https://open.spotify.com/track/44wXefe8WB9Fd6xwtmAwbR?si=4c3_9GsTSCO1-maQHbtorA) by Foo Fighters ([tab](https://www.ultimate-guitar.com/search.php?title=Foo+Fighters+Monkey+Wrench))
