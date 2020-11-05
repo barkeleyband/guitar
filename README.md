@@ -67,6 +67,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Bass Songs Backlog
 
+- [Alaska](https://open.spotify.com/track/0sSoNYwZLoE4gLAKIG4uYL?si=v7D6423jQKanWwrUFIZXyg) by Little Hurt ([tab](https://www.ultimate-guitar.com/search.php?title=Little+Hurt+Alaska))
 - [Cemetery](https://open.spotify.com/track/5czZkLGepjburbkbEaCfm4?si=dkauwvnLRL2oHA7uzzPHwQ) by COIN ([tab](https://www.ultimate-guitar.com/search.php?title=COIN+Cemetery))
 - [Dirty](https://open.spotify.com/track/3MTfE3Mo3lfwAymYLU2luX?si=ObpFqTISRD-0O-wYa8-fIw) by grandson ([tab](https://www.ultimate-guitar.com/search.php?title=grandson+Dirty))
 - [Complainer](https://open.spotify.com/track/6ikOGMtTgDxzZLrNuemotc?si=BKnQKEjrSXGXS18BE3Oj_A) by Cold War Kids ([tab](https://www.ultimate-guitar.com/search.php?title=Cold+War+Kids+Complainer))
