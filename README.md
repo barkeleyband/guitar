@@ -31,6 +31,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Bad Vibes](https://open.spotify.com/track/0POuQCMT4zyRzB2MjbzVaI?si=qBpxd4UCTeqbIFaxoTt1BA) by K.Flay ([tab](https://www.ultimate-guitar.com/search.php?title=K.Flay+Bad+Vibes))
 - [Bullet for Your Sweetheart](https://open.spotify.com/track/4Z4EeEBGhvcoBwQmHIl0km?si=kQnNNvp9T56GY_ukz2uXow) by Make Out Monday ([tab](https://www.ultimate-guitar.com/search.php?title=Make+Out+Monday+Bullet+for+Your+Sweetheart))
 - [Apologize](https://open.spotify.com/track/1JG8pJ7G8qJiy98DzCBL2E?si=GsJzD9KGRuWZ6q_hHR-zwQ) by grandson ([tab](https://www.ultimate-guitar.com/search.php?title=grandson+Apologize))
 - [Good Things Fall Apart (with Jon Bellion)](https://open.spotify.com/track/3LxG9HkMMFP0MZuiw3O2rF?si=YJKTGNCaTTGOWJaDJTDJ-g) by ILLENIUM ([tab](https://www.ultimate-guitar.com/search.php?title=ILLENIUM+Good+Things+Fall+Apart+(with+Jon+Bellion)))
