@@ -17,15 +17,13 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Me and My Friends Are Lonely](https://open.spotify.com/track/1lLGOHbOgsrJ2tFQYKNK44?si=yzoVqvBGQ5KZ54sCtYhLuA) by Matt Maeson ([tab](https://www.ultimate-guitar.com/search.php?title=Matt+Maeson+Me+and+My+Friends+Are+Lonely))
 - [Cheap Beer and Nicotine](https://open.spotify.com/track/134U6Mp1fKxXIKLaSyo2ca?si=GrOBQsdYTemptCkRssS7lA) by littleDEATH ([tab](https://www.ultimate-guitar.com/search.php?title=littleDEATH+Cheap+Beer+and+Nicotine))
 - [Plate Tectonics](https://open.spotify.com/track/080IENUoropPZpu1IdqABZ?si=Z0THOVfMQkeOecM6hz9udQ) by When the Clock Strikes ([tab](https://www.ultimate-guitar.com/search.php?title=When+the+Clock+Strikes+Plate+Tectonics))
 - [Stupid for You](https://open.spotify.com/track/1N7Aep1OewK9diaN9WbuuR?si=IybUUuOeT9iq3hki3sqyrQ) by Waterparks ([tab](https://www.ultimate-guitar.com/search.php?title=Waterparks+Stupid+for+You))
 - [Weightless](https://open.spotify.com/track/0aZJGkkXR3DgaFqo5sB8ot?si=CITC_ix1QzyPIi_jYyEByQ) by All Time Low ([tab](https://www.ultimate-guitar.com/search.php?title=All+Time+Low+Weightless))
 - I Miss You by Blink 182
 - Hang Me Up to Dry by Cold War Kids
-- [Stupid for You](https://open.spotify.com/track/1N7Aep1OewK9diaN9WbuuR?si=IybUUuOeT9iq3hki3sqyrQ) by Waterparks
-- [Plate Tectonics](https://open.spotify.com/track/080IENUoropPZpu1IdqABZ?si=Z0THOVfMQkeOecM6hz9udQ) by When the Clock Strikes
-- [Cheap Beer and Nicotine](https://open.spotify.com/track/134U6Mp1fKxXIKLaSyo2ca?si=GrOBQsdYTemptCkRssS7lA) by littleDEATH
 - [Me and My Friends Are Lonely](https://open.spotify.com/track/1lLGOHbOgsrJ2tFQYKNK44?si=yzoVqvBGQ5KZ54sCtYhLuA) by Matt Maeson
 - [Superstition](https://open.spotify.com/track/0egrDwMUX1RmdGP90JLmbJ?si=EPbd-6u8TJCiBt1PoOriKQ) by Minshara
 - [Lately](https://open.spotify.com/track/4khDuvRnfUs0RFrGnYlWSf?si=CgeD_i91Rtm0sXwWzIO7KQ) by VOILÀ
