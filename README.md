@@ -31,6 +31,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Teenagers](https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0?si=T7WadN4PTNKO0kDUBV26fw) by My Chemical Romance ([tab](https://www.ultimate-guitar.com/search.php?title=My+Chemical+Romance+Teenagers))
 - [Mr. Brightside](https://open.spotify.com/track/7oK9VyNzrYvRFo7nQEYkWN?si=icEQE3U1TAeg0eBppIK-YQ) by The Killers ([tab](https://www.ultimate-guitar.com/search.php?title=The+Killers+Mr.+Brightside))
 - [Basket Case](https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s?si=f0BoIeJoSmO6WWSz9qFQtA) by Green Day ([tab](https://www.ultimate-guitar.com/search.php?title=Green+Day+Basket+Case))
 - [The Boys of Summer](https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy?si=-IobpV_xTJ2AuDm2HTNT5g) by The Ataris ([tab](https://www.ultimate-guitar.com/search.php?title=The+Ataris+The+Boys+of+Summer))
