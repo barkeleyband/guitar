@@ -31,6 +31,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Kamikaze](https://open.spotify.com/track/3YQ96qkxiEwTLwgu2Izcmq?si=lSV7CiEtQ_G06bmKu_ymaw) by WALK THE MOON ([tab](https://www.ultimate-guitar.com/search.php?title=WALK+THE+MOON+Kamikaze))
 - [Semi-Charmed Life - Remastered 2006](https://open.spotify.com/track/6xHPWNQoObebyt5mhnFuf2?si=HfFrKJ6aRtCFWKvDT4lROQ) by Third Eye Blind ([tab](https://www.ultimate-guitar.com/search.php?title=Third+Eye+Blind+Semi-Charmed+Life+-+Remastered+2006))
 - [Every Morning](https://open.spotify.com/track/2ouURa1AIXp3AvkS52Jry5?si=rPeVCs26St2AvYCFnUb85A) by Sugar Ray ([tab](https://www.ultimate-guitar.com/search.php?title=Sugar+Ray+Every+Morning))
 - [IDGAF](https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr?si=DCq9gHhmRCOso-UfztDWFA) by Dua Lipa ([tab](https://www.ultimate-guitar.com/search.php?title=Dua+Lipa+IDGAF))
