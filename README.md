@@ -93,6 +93,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Bass Songs Backlog
 
+- [Come a Little Closer](https://open.spotify.com/track/7fK8e68OFiIgUpcWKzu1nM?si=pO8rLla4SFCszMKgkJHrHw) by Cage The Elephant ([tab](https://www.ultimate-guitar.com/search.php?title=Cage+The+Elephant+Come+a+Little+Closer))
 - [Dangerous (feat. Joywave)](https://open.spotify.com/track/2rPw8mIZPu987REVeDbrjt?si=Hig-L-2cSRqKE8Wy941A8w) by Big Data ([tab](https://www.ultimate-guitar.com/search.php?title=Big+Data+Dangerous+(feat.+Joywave)))
 - [Crazy](https://open.spotify.com/track/1vxw6aYJls2oq3gW0DujAo?si=dYW5ob5SRYaXhnSVaScbvw) by Gnarls Barkley ([tab](https://www.ultimate-guitar.com/search.php?title=Gnarls+Barkley+Crazy))
 - [Steady, As She Goes](https://open.spotify.com/track/2zk1COXk7NaAaDW1KWMuio?si=eyNKdgcLQ2OQoQQ8SJfD4Q) by The Raconteurs ([tab](https://www.ultimate-guitar.com/search.php?title=The+Raconteurs+Steady,+As+She+Goes))
