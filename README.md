@@ -17,6 +17,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Monkey Wrench](https://open.spotify.com/track/44wXefe8WB9Fd6xwtmAwbR?si=4c3_9GsTSCO1-maQHbtorA) by Foo Fighters ([tab](https://www.ultimate-guitar.com/search.php?title=Foo+Fighters+Monkey+Wrench))
 - [Misirlou](https://open.spotify.com/track/1p791U7Bx5PmvCwucN4PQN?si=GZvYWNVBR-KKbJCHgjm2Jg) by Dick Dale and his Del-Tones ([tab](https://www.ultimate-guitar.com/search.php?title=Dick+Dale+and+his+Del-Tones+Misirlou))
 - [Lifestyles of the Rich &amp; Famous](https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6?si=V7WhoUHyRM6LCt1mjGUxig) by Good Charlotte ([tab](https://www.ultimate-guitar.com/search.php?title=Good+Charlotte+Lifestyles+of+the+Rich+&amp;+Famous))
 - [I Just Wanna Shine](https://open.spotify.com/track/4GZ3YCkuH0VvTluVLwUp4g?si=s4RZY1CpQ56JmJhFA3H0WQ) by Fitz and The Tantrums ([tab](https://www.ultimate-guitar.com/search.php?title=Fitz+and+The+Tantrums+I+Just+Wanna+Shine))
