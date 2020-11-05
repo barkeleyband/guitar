@@ -17,6 +17,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Wonderwall](https://open.spotify.com/track/1qPbGZqppFwLwcBC1JQ6Vr?si=z2pEiPrQQDOqPOqd9aQMoA) by Oasis ([tab](https://www.ultimate-guitar.com/search.php?title=Oasis+Wonderwall))
 - [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY?si=up8rGBAjTO-4ZiYHGXP58Q) by Harry Styles ([tab](https://www.ultimate-guitar.com/search.php?title=Harry+Styles+Watermelon+Sugar))
 - [Walk This Way](https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP?si=4XLtdf8BR9KA-pp3bDNPJA) by Aerosmith ([tab](https://www.ultimate-guitar.com/search.php?title=Aerosmith+Walk+This+Way))
 - [The Middle](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO?si=Dy8WUOlhS7O6BwkXbdJgLQ) by Jimmy Eat World ([tab](https://www.ultimate-guitar.com/search.php?title=Jimmy+Eat+World+The+Middle))
