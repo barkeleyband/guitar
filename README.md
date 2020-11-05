@@ -30,6 +30,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Bass Songs Backlog
 
+- [Complainer](https://open.spotify.com/track/6ikOGMtTgDxzZLrNuemotc?si=BKnQKEjrSXGXS18BE3Oj_A) by Cold War Kids ([tab](https://www.ultimate-guitar.com/search.php?title=Cold+War+Kids+Complainer))
 - [Complainer](https://open.spotify.com/track/6ikOGMtTgDxzZLrNuemotc?si=BKnQKEjrSXGXS18BE3Oj_A) by Cold War Kids
 
 <p align="center">
