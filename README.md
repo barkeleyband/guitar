@@ -17,6 +17,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Superstition](https://open.spotify.com/track/0egrDwMUX1RmdGP90JLmbJ?si=EPbd-6u8TJCiBt1PoOriKQ) by Minshara ([tab](https://www.ultimate-guitar.com/search.php?title=Minshara+Superstition))
 - [Me and My Friends Are Lonely](https://open.spotify.com/track/1lLGOHbOgsrJ2tFQYKNK44?si=yzoVqvBGQ5KZ54sCtYhLuA) by Matt Maeson ([tab](https://www.ultimate-guitar.com/search.php?title=Matt+Maeson+Me+and+My+Friends+Are+Lonely))
 - [Cheap Beer and Nicotine](https://open.spotify.com/track/134U6Mp1fKxXIKLaSyo2ca?si=GrOBQsdYTemptCkRssS7lA) by littleDEATH ([tab](https://www.ultimate-guitar.com/search.php?title=littleDEATH+Cheap+Beer+and+Nicotine))
 - [Plate Tectonics](https://open.spotify.com/track/080IENUoropPZpu1IdqABZ?si=Z0THOVfMQkeOecM6hz9udQ) by When the Clock Strikes ([tab](https://www.ultimate-guitar.com/search.php?title=When+the+Clock+Strikes+Plate+Tectonics))
