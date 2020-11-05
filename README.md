@@ -17,6 +17,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Rum n Tequila](https://open.spotify.com/track/3kSmaObYtsjFbusk0HBBuX?si=zNvnP3peQOeKzPT754ZSOQ) by John K ([tab](https://www.ultimate-guitar.com/search.php?title=John+K+Rum+n+Tequila))
 - [Lately](https://open.spotify.com/track/4khDuvRnfUs0RFrGnYlWSf?si=CgeD_i91Rtm0sXwWzIO7KQ) by VOILÀ ([tab](https://www.ultimate-guitar.com/search.php?title=VOILÀ+Lately))
 - [Superstition](https://open.spotify.com/track/0egrDwMUX1RmdGP90JLmbJ?si=EPbd-6u8TJCiBt1PoOriKQ) by Minshara ([tab](https://www.ultimate-guitar.com/search.php?title=Minshara+Superstition))
 - [Me and My Friends Are Lonely](https://open.spotify.com/track/1lLGOHbOgsrJ2tFQYKNK44?si=yzoVqvBGQ5KZ54sCtYhLuA) by Matt Maeson ([tab](https://www.ultimate-guitar.com/search.php?title=Matt+Maeson+Me+and+My+Friends+Are+Lonely))
