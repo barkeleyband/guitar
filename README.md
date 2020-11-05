@@ -17,6 +17,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [High School Never Ends - Main Version - Explicit](https://open.spotify.com/track/1bhjMY5O0ZjB41OHcdRH0a?si=fo0dcbSoSp-iNZrOTB3bxg) by Bowling For Soup ([tab](https://www.ultimate-guitar.com/search.php?title=Bowling+For+Soup+High+School+Never+Ends+-+Main+Version+-+Explicit))
 - [Fly Away](https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW?si=0szhBU4SQVSh-nEBfyggQQ) by Lenny Kravitz ([tab](https://www.ultimate-guitar.com/search.php?title=Lenny+Kravitz+Fly+Away))
 - [F2020](https://open.spotify.com/track/7opTGnWVJcm1e5mWWOldpg?si=F2XBb4C7QV-pT_jYZmcyOQ) by Avenue Beat ([tab](https://www.ultimate-guitar.com/search.php?title=Avenue+Beat+F2020))
 - [Drive](https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy?si=yL_ZXWyQRK613JBar-r12g) by Incubus ([tab](https://www.ultimate-guitar.com/search.php?title=Incubus+Drive))
