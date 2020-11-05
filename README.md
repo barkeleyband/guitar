@@ -11,13 +11,11 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 # Songs
 
-## Guitar
+## Guitar Songs I Know
 
-### Learned
+## Guitar Songs I'm Learning
 
-### In Progress
-
-### Backlog
+## Guitar Songs Backlog
 
 - I Miss You by Blink 182
 - Hang Me Up to Dry by Cold War Kids
@@ -30,13 +28,9 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 - [Rum n Tequila](https://open.spotify.com/track/3kSmaObYtsjFbusk0HBBuX?si=zNvnP3peQOeKzPT754ZSOQ) by John K
 - [Tulips](https://open.spotify.com/track/2PP0ZyMIHrLVtmHXvg74Cz?si=mh8tJus2T5-kKbrDNiW1DQ) by Refractions
 
-## Bass
+## Bass Songs Backlog
 
-### Learned
-
-### In Progress
-
-### Backlog
+I don't have a bass currently, but I'll get one someday and when I do I'll want songs to learn so here's some I've found!
 
 - [Complainer](https://open.spotify.com/track/6ikOGMtTgDxzZLrNuemotc?si=BKnQKEjrSXGXS18BE3Oj_A) by Cold War Kids
 
