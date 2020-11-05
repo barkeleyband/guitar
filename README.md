@@ -17,6 +17,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [I Miss You](https://open.spotify.com/track/1oTo3ijRbaDAtrjJrGAPSw?si=oZfNmDHLQ4KXqoKDKgSqrg) by blink-182 ([tab](https://www.ultimate-guitar.com/search.php?title=blink-182+I+Miss+You))
 - [Tulips](https://open.spotify.com/track/2PP0ZyMIHrLVtmHXvg74Cz?si=mh8tJus2T5-kKbrDNiW1DQ) by Refractions ([tab](https://www.ultimate-guitar.com/search.php?title=Refractions+Tulips))
 - [Rum n Tequila](https://open.spotify.com/track/3kSmaObYtsjFbusk0HBBuX?si=zNvnP3peQOeKzPT754ZSOQ) by John K ([tab](https://www.ultimate-guitar.com/search.php?title=John+K+Rum+n+Tequila))
 - [Lately](https://open.spotify.com/track/4khDuvRnfUs0RFrGnYlWSf?si=CgeD_i91Rtm0sXwWzIO7KQ) by VOILÀ ([tab](https://www.ultimate-guitar.com/search.php?title=VOILÀ+Lately))
@@ -26,13 +27,6 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 - [Plate Tectonics](https://open.spotify.com/track/080IENUoropPZpu1IdqABZ?si=Z0THOVfMQkeOecM6hz9udQ) by When the Clock Strikes ([tab](https://www.ultimate-guitar.com/search.php?title=When+the+Clock+Strikes+Plate+Tectonics))
 - [Stupid for You](https://open.spotify.com/track/1N7Aep1OewK9diaN9WbuuR?si=IybUUuOeT9iq3hki3sqyrQ) by Waterparks ([tab](https://www.ultimate-guitar.com/search.php?title=Waterparks+Stupid+for+You))
 - [Weightless](https://open.spotify.com/track/0aZJGkkXR3DgaFqo5sB8ot?si=CITC_ix1QzyPIi_jYyEByQ) by All Time Low ([tab](https://www.ultimate-guitar.com/search.php?title=All+Time+Low+Weightless))
-- I Miss You by Blink 182
-- Hang Me Up to Dry by Cold War Kids
-- [Me and My Friends Are Lonely](https://open.spotify.com/track/1lLGOHbOgsrJ2tFQYKNK44?si=yzoVqvBGQ5KZ54sCtYhLuA) by Matt Maeson
-- [Superstition](https://open.spotify.com/track/0egrDwMUX1RmdGP90JLmbJ?si=EPbd-6u8TJCiBt1PoOriKQ) by Minshara
-- [Lately](https://open.spotify.com/track/4khDuvRnfUs0RFrGnYlWSf?si=CgeD_i91Rtm0sXwWzIO7KQ) by VOILÀ
-- [Rum n Tequila](https://open.spotify.com/track/3kSmaObYtsjFbusk0HBBuX?si=zNvnP3peQOeKzPT754ZSOQ) by John K
-- [Tulips](https://open.spotify.com/track/2PP0ZyMIHrLVtmHXvg74Cz?si=mh8tJus2T5-kKbrDNiW1DQ) by Refractions
 
 ## Bass Songs Backlog
 
