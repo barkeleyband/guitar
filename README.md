@@ -31,6 +31,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Believe](https://open.spotify.com/track/4Wvr1YaxNsCujq77dKujys?si=2-vKGSJ7SKe7l31jsuHo2Q) by The Bravery ([tab](https://www.ultimate-guitar.com/search.php?title=The+Bravery+Believe))
 - [Here It Goes Again](https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD?si=5a9TdFu1RRuQ9wf0VgB39g) by OK Go ([tab](https://www.ultimate-guitar.com/search.php?title=OK+Go+Here+It+Goes+Again))
 - [Dashboard](https://open.spotify.com/track/0Fe3WxeO6lZZxj7ytvbDUh?si=LzgSNvBkTO26t2gBDgybsg) by Modest Mouse ([tab](https://www.ultimate-guitar.com/search.php?title=Modest+Mouse+Dashboard))
 - [Dirty Paws](https://open.spotify.com/track/1hxq7kWQnwdhxgpEugBMGk?si=syPMBBXFQA-jlDlmcqJ-aQ) by Of Monsters and Men ([tab](https://www.ultimate-guitar.com/search.php?title=Of+Monsters+and+Men+Dirty+Paws))
