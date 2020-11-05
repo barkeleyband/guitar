@@ -17,6 +17,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Some Kind of Disaster](https://open.spotify.com/track/02lU0Hj680zVexT4GqJJZ4?si=L0spxHi4QqWu7k8ORUqgIA) by All Time Low ([tab](https://www.ultimate-guitar.com/search.php?title=All+Time+Low+Some+Kind+of+Disaster))
 - [Ocean Avenue](https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx?si=Nk9D8vO5QYyRHCscdbBZxw) by Yellowcard ([tab](https://www.ultimate-guitar.com/search.php?title=Yellowcard+Ocean+Avenue))
 - [Monkey Wrench](https://open.spotify.com/track/44wXefe8WB9Fd6xwtmAwbR?si=4c3_9GsTSCO1-maQHbtorA) by Foo Fighters ([tab](https://www.ultimate-guitar.com/search.php?title=Foo+Fighters+Monkey+Wrench))
 - [Misirlou](https://open.spotify.com/track/1p791U7Bx5PmvCwucN4PQN?si=GZvYWNVBR-KKbJCHgjm2Jg) by Dick Dale and his Del-Tones ([tab](https://www.ultimate-guitar.com/search.php?title=Dick+Dale+and+his+Del-Tones+Misirlou))
