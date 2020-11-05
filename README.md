@@ -31,6 +31,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Bullet for Your Sweetheart](https://open.spotify.com/track/4Z4EeEBGhvcoBwQmHIl0km?si=kQnNNvp9T56GY_ukz2uXow) by Make Out Monday ([tab](https://www.ultimate-guitar.com/search.php?title=Make+Out+Monday+Bullet+for+Your+Sweetheart))
 - [Apologize](https://open.spotify.com/track/1JG8pJ7G8qJiy98DzCBL2E?si=GsJzD9KGRuWZ6q_hHR-zwQ) by grandson ([tab](https://www.ultimate-guitar.com/search.php?title=grandson+Apologize))
 - [Good Things Fall Apart (with Jon Bellion)](https://open.spotify.com/track/3LxG9HkMMFP0MZuiw3O2rF?si=YJKTGNCaTTGOWJaDJTDJ-g) by ILLENIUM ([tab](https://www.ultimate-guitar.com/search.php?title=ILLENIUM+Good+Things+Fall+Apart+(with+Jon+Bellion)))
 - [Broken Promises](https://open.spotify.com/track/2YnvR7uhlWpPdYUn1eR25y?si=tAAp6V82QbS5YY97drykLg) by Element Eighty ([tab](https://www.ultimate-guitar.com/search.php?title=Element+Eighty+Broken+Promises))
