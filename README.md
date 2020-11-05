@@ -17,6 +17,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Beat It](https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj?si=7xmF6vovRRmZrgbccVKLhw) by Michael Jackson ([tab](https://www.ultimate-guitar.com/search.php?title=Michael+Jackson+Beat+It))
 - [I Miss You](https://open.spotify.com/track/1oTo3ijRbaDAtrjJrGAPSw?si=oZfNmDHLQ4KXqoKDKgSqrg) by blink-182 ([tab](https://www.ultimate-guitar.com/search.php?title=blink-182+I+Miss+You))
 - [Tulips](https://open.spotify.com/track/2PP0ZyMIHrLVtmHXvg74Cz?si=mh8tJus2T5-kKbrDNiW1DQ) by Refractions ([tab](https://www.ultimate-guitar.com/search.php?title=Refractions+Tulips))
 - [Rum n Tequila](https://open.spotify.com/track/3kSmaObYtsjFbusk0HBBuX?si=zNvnP3peQOeKzPT754ZSOQ) by John K ([tab](https://www.ultimate-guitar.com/search.php?title=John+K+Rum+n+Tequila))
