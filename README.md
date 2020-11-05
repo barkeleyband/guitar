@@ -31,6 +31,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Basket Case](https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s?si=f0BoIeJoSmO6WWSz9qFQtA) by Green Day ([tab](https://www.ultimate-guitar.com/search.php?title=Green+Day+Basket+Case))
 - [The Boys of Summer](https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy?si=-IobpV_xTJ2AuDm2HTNT5g) by The Ataris ([tab](https://www.ultimate-guitar.com/search.php?title=The+Ataris+The+Boys+of+Summer))
 - [i](https://open.spotify.com/track/7wdzLe2Gsx1RGqbvYZHASz?si=rwQHZiA6RRWYkq4BEJsC2Q) by Kendrick Lamar ([tab](https://www.ultimate-guitar.com/search.php?title=Kendrick+Lamar+i))
 - [Believe](https://open.spotify.com/track/4Wvr1YaxNsCujq77dKujys?si=2-vKGSJ7SKe7l31jsuHo2Q) by The Bravery ([tab](https://www.ultimate-guitar.com/search.php?title=The+Bravery+Believe))
