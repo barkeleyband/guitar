@@ -17,6 +17,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Check Yes, Juliet](https://open.spotify.com/track/0wVluBsVAVzBKrqspuCcwR?si=Ur6c59oqS42PZzhSJ93B4g) by We The Kings ([tab](https://www.ultimate-guitar.com/search.php?title=We+The+Kings+Check+Yes,+Juliet))
 - [Better Than Me](https://open.spotify.com/track/2ACs0dJwkSsvNZvEbvFurK?si=WYJ8eIjxQriM4MpA1AMMQQ) by The Brobecks ([tab](https://www.ultimate-guitar.com/search.php?title=The+Brobecks+Better+Than+Me))
 - [Beat It](https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj?si=7xmF6vovRRmZrgbccVKLhw) by Michael Jackson ([tab](https://www.ultimate-guitar.com/search.php?title=Michael+Jackson+Beat+It))
 - [I Miss You](https://open.spotify.com/track/1oTo3ijRbaDAtrjJrGAPSw?si=oZfNmDHLQ4KXqoKDKgSqrg) by blink-182 ([tab](https://www.ultimate-guitar.com/search.php?title=blink-182+I+Miss+You))
