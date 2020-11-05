@@ -31,6 +31,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Do It All The Time](https://open.spotify.com/track/14ny3vlL25p6Vix2Sb8k1b?si=mW6Ly1DuTSCdo5KqKxYaPA) by I DONT KNOW HOW BUT THEY FOUND ME ([tab](https://www.ultimate-guitar.com/search.php?title=I+DONT+KNOW+HOW+BUT+THEY+FOUND+ME+Do+It+All+The+Time))
 - [Dirty](https://open.spotify.com/track/3MTfE3Mo3lfwAymYLU2luX?si=ObpFqTISRD-0O-wYa8-fIw) by grandson ([tab](https://www.ultimate-guitar.com/search.php?title=grandson+Dirty))
 - [Monsters (feat. blackbear)](https://open.spotify.com/track/0tyR7Bu9P086aWBFZ4QJoo?si=4fbzn6ooQWCg08hB2_9Rnw) by All Time Low ([tab](https://www.ultimate-guitar.com/search.php?title=All+Time+Low+Monsters+(feat.+blackbear)))
 - [Lowkey As Hell](https://open.spotify.com/track/1syWM2X9Joy2MdRznIaTil?si=7CXGy7aUQNO4yuna1oF1OQ) by Waterparks ([tab](https://www.ultimate-guitar.com/search.php?title=Waterparks+Lowkey+As+Hell))
