@@ -31,6 +31,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Every Morning](https://open.spotify.com/track/2ouURa1AIXp3AvkS52Jry5?si=rPeVCs26St2AvYCFnUb85A) by Sugar Ray ([tab](https://www.ultimate-guitar.com/search.php?title=Sugar+Ray+Every+Morning))
 - [IDGAF](https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr?si=DCq9gHhmRCOso-UfztDWFA) by Dua Lipa ([tab](https://www.ultimate-guitar.com/search.php?title=Dua+Lipa+IDGAF))
 - [Rich](https://open.spotify.com/track/59emGJDCTWRSBcMEG9M29f?si=fviqJefIQZKPMp_cBlNJXw) by Mourners ([tab](https://www.ultimate-guitar.com/search.php?title=Mourners+Rich))
 - [hot girl bummer](https://open.spotify.com/track/7aiClxsDWFRQ0Kzk5KI5ku?si=bR7XJ8ntQeerbzqYE7GzFA) by blackbear ([tab](https://www.ultimate-guitar.com/search.php?title=blackbear+hot+girl+bummer))
