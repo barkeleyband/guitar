@@ -31,6 +31,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Rich](https://open.spotify.com/track/59emGJDCTWRSBcMEG9M29f?si=fviqJefIQZKPMp_cBlNJXw) by Mourners ([tab](https://www.ultimate-guitar.com/search.php?title=Mourners+Rich))
 - [hot girl bummer](https://open.spotify.com/track/7aiClxsDWFRQ0Kzk5KI5ku?si=bR7XJ8ntQeerbzqYE7GzFA) by blackbear ([tab](https://www.ultimate-guitar.com/search.php?title=blackbear+hot+girl+bummer))
 - [Bad Vibes](https://open.spotify.com/track/0POuQCMT4zyRzB2MjbzVaI?si=qBpxd4UCTeqbIFaxoTt1BA) by K.Flay ([tab](https://www.ultimate-guitar.com/search.php?title=K.Flay+Bad+Vibes))
 - [Bullet for Your Sweetheart](https://open.spotify.com/track/4Z4EeEBGhvcoBwQmHIl0km?si=kQnNNvp9T56GY_ukz2uXow) by Make Out Monday ([tab](https://www.ultimate-guitar.com/search.php?title=Make+Out+Monday+Bullet+for+Your+Sweetheart))
