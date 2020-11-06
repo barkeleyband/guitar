@@ -15,6 +15,8 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs I'm Learning
 
+- [Cough Syrup](https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q?si=n4eSPleuSbW7Ke3kSiqelg) by Young the Giant ([tab](https://tabs.ultimate-guitar.com/tab/young-the-giant/cough-syrup-official-2574357))
+- [IDGAF](https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr?si=DCq9gHhmRCOso-UfztDWFA) by Dua Lipa ([tab](https://tabs.ultimate-guitar.com/tab/dua-lipa/idgaf-official-2396253))
 - [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY?si=up8rGBAjTO-4ZiYHGXP58Q) by Harry Styles ([tab](https://tabs.ultimate-guitar.com/tab/harry-styles/watermelon-sugar-chords-2895911))
 - [Talk Too Much](https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq?si=30gGNzC6RM6QyE2y3SHDfw) by COIN ([tab](https://tabs.ultimate-guitar.com/tab/coin/talk-too-much-official-2573376))
 - [Misirlou](https://open.spotify.com/track/1p791U7Bx5PmvCwucN4PQN?si=GZvYWNVBR-KKbJCHgjm2Jg) by Dick Dale and his Del-Tones ([tab](https://tabs.ultimate-guitar.com/tab/dick-dale/misirlou-guitar-pro-217252))
@@ -28,6 +30,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 - The Mandalorian Theme ([tab](https://tabs.ultimate-guitar.com/tab/misc-television/the-mandalorian-main-theme-tabs-2917766))
 - Nintendo Wii Shop Channel Theme ([tab](https://tabs.ultimate-guitar.com/tab/misc-computer-games/nintendo-wii-shop-channel-theme-tabs-2316743))
 - Nintendo Mii Channel Theme ([tab](https://tabs.ultimate-guitar.com/tab/misc-computer-games/nintendo-wii-mii-channel-theme-guitar-pro-1471989))
+- [Dirty](https://open.spotify.com/track/3MTfE3Mo3lfwAymYLU2luX?si=ObpFqTISRD-0O-wYa8-fIw) by grandson ([tab](https://tabs.ultimate-guitar.com/tab/grandson/dirty-chords-3349028))
 
 ## Guitar Songs Backlog
 
@@ -43,7 +46,6 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 - [Left Hand Free](https://open.spotify.com/track/4NwJWJ7rIZBnv8TwNRhGG2?si=3_uzMG-SSjmVhAH5xPXcYQ) by alt-J ([tab](https://www.ultimate-guitar.com/search.php?title=alt-J+Left+Hand+Free))
 - [What You Know](https://open.spotify.com/track/7oRgM9AfaDq0rm4ovEVYqG?si=rNpLL5TuRs-FfgF_Zgqs-Q) by Two Door Cinema Club ([tab](https://www.ultimate-guitar.com/search.php?title=Two+Door+Cinema+Club+What+You+Know))
 - [Steady, As She Goes](https://open.spotify.com/track/2zk1COXk7NaAaDW1KWMuio?si=eyNKdgcLQ2OQoQQ8SJfD4Q) by The Raconteurs ([tab](https://www.ultimate-guitar.com/search.php?title=The+Raconteurs+Steady,+As+She+Goes))
-- [Cough Syrup](https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q?si=n4eSPleuSbW7Ke3kSiqelg) by Young the Giant ([tab](https://www.ultimate-guitar.com/search.php?title=Young+the+Giant+Cough+Syrup))
 - [Paradise City](https://open.spotify.com/track/5Fz2wrKAjhKpWeTwvE1Ct3?si=-8TjRH4LTmOE1ru7TyqRrg) by Guns N&#39; Roses ([tab](https://www.ultimate-guitar.com/search.php?title=Guns+N&#39;+Roses+Paradise+City))
 - [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg?si=JlarEVXLTTijPyQZ5ypNZQ) by Coldplay ([tab](https://www.ultimate-guitar.com/search.php?title=Coldplay+Yellow))
 - [Silvertongue](https://open.spotify.com/track/0yTJtxZJ5VLfBEHhiNUNeY?si=tQ68Y8AbSjiOLyerxdvVgA) by Young the Giant ([tab](https://www.ultimate-guitar.com/search.php?title=Young+the+Giant+Silvertongue))
@@ -52,7 +54,6 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 - [Kamikaze](https://open.spotify.com/track/3YQ96qkxiEwTLwgu2Izcmq?si=lSV7CiEtQ_G06bmKu_ymaw) by WALK THE MOON ([tab](https://www.ultimate-guitar.com/search.php?title=WALK+THE+MOON+Kamikaze))
 - [Semi-Charmed Life - Remastered 2006](https://open.spotify.com/track/6xHPWNQoObebyt5mhnFuf2?si=HfFrKJ6aRtCFWKvDT4lROQ) by Third Eye Blind ([tab](https://www.ultimate-guitar.com/search.php?title=Third+Eye+Blind+Semi-Charmed+Life+-+Remastered+2006))
 - [Every Morning](https://open.spotify.com/track/2ouURa1AIXp3AvkS52Jry5?si=rPeVCs26St2AvYCFnUb85A) by Sugar Ray ([tab](https://www.ultimate-guitar.com/search.php?title=Sugar+Ray+Every+Morning))
-- [IDGAF](https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr?si=DCq9gHhmRCOso-UfztDWFA) by Dua Lipa ([tab](https://www.ultimate-guitar.com/search.php?title=Dua+Lipa+IDGAF))
 - [Rich](https://open.spotify.com/track/59emGJDCTWRSBcMEG9M29f?si=fviqJefIQZKPMp_cBlNJXw) by Mourners ([tab](https://www.ultimate-guitar.com/search.php?title=Mourners+Rich))
 - [hot girl bummer](https://open.spotify.com/track/7aiClxsDWFRQ0Kzk5KI5ku?si=bR7XJ8ntQeerbzqYE7GzFA) by blackbear ([tab](https://www.ultimate-guitar.com/search.php?title=blackbear+hot+girl+bummer))
 - [Bad Vibes](https://open.spotify.com/track/0POuQCMT4zyRzB2MjbzVaI?si=qBpxd4UCTeqbIFaxoTt1BA) by K.Flay ([tab](https://www.ultimate-guitar.com/search.php?title=K.Flay+Bad+Vibes))
@@ -67,7 +68,6 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 - [Good As It Gets](https://open.spotify.com/track/79HFFYAPOd80mvfOkwDv1n?si=dFI3fvwGRSO69kkTWMGbvw) by Little Hurt ([tab](https://www.ultimate-guitar.com/search.php?title=Little+Hurt+Good+As+It+Gets))
 - [loneliness for love](https://open.spotify.com/track/5Kth6cQqMCY9HSo0GbhjUF?si=sdJWgzIYRCaBrrprSyzcQw) by lovelytheband ([tab](https://www.ultimate-guitar.com/search.php?title=lovelytheband+loneliness+for+love))
 - [Do It All The Time](https://open.spotify.com/track/14ny3vlL25p6Vix2Sb8k1b?si=mW6Ly1DuTSCdo5KqKxYaPA) by I DONT KNOW HOW BUT THEY FOUND ME ([tab](https://www.ultimate-guitar.com/search.php?title=I+DONT+KNOW+HOW+BUT+THEY+FOUND+ME+Do+It+All+The+Time))
-- [Dirty](https://open.spotify.com/track/3MTfE3Mo3lfwAymYLU2luX?si=ObpFqTISRD-0O-wYa8-fIw) by grandson ([tab](https://www.ultimate-guitar.com/search.php?title=grandson+Dirty))
 - [Monsters (feat. blackbear)](https://open.spotify.com/track/0tyR7Bu9P086aWBFZ4QJoo?si=4fbzn6ooQWCg08hB2_9Rnw) by All Time Low ([tab](https://www.ultimate-guitar.com/search.php?title=All+Time+Low+Monsters+(feat.+blackbear)))
 - [Lowkey As Hell](https://open.spotify.com/track/1syWM2X9Joy2MdRznIaTil?si=7CXGy7aUQNO4yuna1oF1OQ) by Waterparks ([tab](https://www.ultimate-guitar.com/search.php?title=Waterparks+Lowkey+As+Hell))
 - [You&#39;re Gonna Go Far, Kid](https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT?si=8Z3NzKvmTxq2hx4gYBcd7g) by The Offspring ([tab](https://tabs.ultimate-guitar.com/tab/the-offspring/youre-gonna-go-far-kid-official-1942431))
