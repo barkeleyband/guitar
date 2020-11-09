@@ -10,7 +10,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 - [Essential Guitar Scales](https://www.fender.com/articles/how-to/5-essential-guitar-scales-for-beginners)
 - [Guitar Theory for Dummies Cheat Sheet](https://www.dummies.com/art-center/music/guitar/guitar-theory-for-dummies-cheat-sheet/)
 
-# Guitar Song Collection
+# Guitar Song Collection ([Spotify playlist](https://open.spotify.com/playlist/720tO9EFSrf8DqXsNrNGbt?si=36G3s4OWTn-qkDMgn4Cjow))
 
 ## Guitar Songs I Know
 
@@ -111,7 +111,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 - [Weightless](https://open.spotify.com/track/0aZJGkkXR3DgaFqo5sB8ot?si=CITC_ix1QzyPIi_jYyEByQ) by All Time Low ([tab](https://www.ultimate-guitar.com/search.php?title=All+Time+Low+Weightless))
 - The Legend of Zelda Gerudo Valley ([tab](https://tabs.ultimate-guitar.com/tab/misc-computer-games/the-legend-of-zelda-ocarina-of-time-gerudo-valley-guitar-pro-1194202))
 
-# Bass Song Collection
+# Bass Song Collection ([Spotify playlist](https://open.spotify.com/playlist/6HLNbCz2enOhrv5FrEYrwp?si=j1FXBwLSQY2vJkGKDpw7UA))
 
 ## Bass Songs I Know
 
