@@ -121,6 +121,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Bass Songs Backlog
 
+- [Fake Love](https://open.spotify.com/track/4ekEPnMf0RvF7z8rL9Xgzl) by Cemetery Sun ([tab](https://www.ultimate-guitar.com/search.php?title=Cemetery+Sun+Fake+Love))
 - [Voices](https://open.spotify.com/track/7JzWz4mgrthdmX52b0Z7mz) by Against The Current ([tab](https://www.ultimate-guitar.com/search.php?title=Against+The+Current+Voices))
 - [Daphne Blue](https://open.spotify.com/track/2FhJvFKyZng57iVQmFayVw) by The Band CAMINO ([tab](https://www.ultimate-guitar.com/search.php?title=The+Band+CAMINO+Daphne+Blue))
 - [Seven Nation Army](https://open.spotify.com/track/7i6r9KotUPQg3ozKKgEPIN?si=yUi0S3oiQ4uD3zRP3DIY0Q) by The White Stripes ([tab](https://www.ultimate-guitar.com/search.php?title=The+White+Stripes+Seven+Nation+Army))
