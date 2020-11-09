@@ -8,6 +8,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 - [Guitar Note Flashcards](https://musicards.net/music_flash_cards/read_guitar_notes.html)
 - [Essential Guitar Scales](https://www.fender.com/articles/how-to/5-essential-guitar-scales-for-beginners)
+- [Guitar Theory for Dummies Cheat Sheet](https://www.dummies.com/art-center/music/guitar/guitar-theory-for-dummies-cheat-sheet/)
 
 # Songs
 
@@ -38,6 +39,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- Coffin Dance meme song ([Instagram tutorial](https://www.instagram.com/p/CHQjHkSH_Da/?igshid=16a6e249ztw49))
 - [Everything You Want](https://open.spotify.com/track/4cKGldbhGJniI8BrB3K6tb?si=NGkL4_bMQrGVlwMCimS9eg) by Vertical Horizon ([tab](https://www.ultimate-guitar.com/search.php?title=Vertical+Horizon+Everything+You+Want))
 - [Lullaby](https://open.spotify.com/track/2objgary7lTlPrbuv8V84t?si=OWm2Od4QRmq0KzLaRi3_Aw) by Billy Cobb ([tab](https://www.ultimate-guitar.com/search.php?title=Billy+Cobb+Lullaby))
 - [Don&#39;t Feel Quite Right](https://open.spotify.com/track/0Snvra2e8WNFin18njZ4G2?si=PChJ98G_Trq1xzSAkCgDGg) by Palaye Royale ([tab](https://www.ultimate-guitar.com/search.php?title=Palaye+Royale+Don&#39;t+Feel+Quite+Right))
