@@ -113,6 +113,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Bass Songs Backlog
 
+- [Daphne Blue](https://open.spotify.com/track/2FhJvFKyZng57iVQmFayVw) by The Band CAMINO ([tab](https://www.ultimate-guitar.com/search.php?title=The+Band+CAMINO+Daphne+Blue))
 - [Seven Nation Army](https://open.spotify.com/track/7i6r9KotUPQg3ozKKgEPIN?si=yUi0S3oiQ4uD3zRP3DIY0Q) by The White Stripes ([tab](https://www.ultimate-guitar.com/search.php?title=The+White+Stripes+Seven+Nation+Army))
 - [Come a Little Closer](https://open.spotify.com/track/7fK8e68OFiIgUpcWKzu1nM?si=pO8rLla4SFCszMKgkJHrHw) by Cage The Elephant ([tab](https://www.ultimate-guitar.com/search.php?title=Cage+The+Elephant+Come+a+Little+Closer))
 - [Dangerous (feat. Joywave)](https://open.spotify.com/track/2rPw8mIZPu987REVeDbrjt?si=Hig-L-2cSRqKE8Wy941A8w) by Big Data ([tab](https://www.ultimate-guitar.com/search.php?title=Big+Data+Dangerous+(feat.+Joywave)))
