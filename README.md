@@ -15,12 +15,13 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs I'm Learning
 
+- [Sweet FA](https://open.spotify.com/track/4fY6EU3jUQQISiUR8DLXuM?si=dVFwBf2lQHW1xfd-N6kX5w) by Peach Pit ([tab](https://www.ultimate-guitar.com/search.php?title=Peach+Pit+Sweet+FA))
 - [Cough Syrup](https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q?si=n4eSPleuSbW7Ke3kSiqelg) by Young the Giant ([tab](https://tabs.ultimate-guitar.com/tab/young-the-giant/cough-syrup-official-2574357))
-- [IDGAF](https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr?si=DCq9gHhmRCOso-UfztDWFA) by Dua Lipa ([tab](https://tabs.ultimate-guitar.com/tab/dua-lipa/idgaf-official-2396253))
-- [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY?si=up8rGBAjTO-4ZiYHGXP58Q) by Harry Styles ([tab](https://tabs.ultimate-guitar.com/tab/harry-styles/watermelon-sugar-chords-2895911))
 - [Talk Too Much](https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq?si=30gGNzC6RM6QyE2y3SHDfw) by COIN ([tab](https://tabs.ultimate-guitar.com/tab/coin/talk-too-much-official-2573376))
-- [Misirlou](https://open.spotify.com/track/1p791U7Bx5PmvCwucN4PQN?si=GZvYWNVBR-KKbJCHgjm2Jg) by Dick Dale and his Del-Tones ([tab](https://tabs.ultimate-guitar.com/tab/dick-dale/misirlou-guitar-pro-217252))
 - [F2020](https://open.spotify.com/track/7opTGnWVJcm1e5mWWOldpg?si=F2XBb4C7QV-pT_jYZmcyOQ) by Avenue Beat ([tab](https://tabs.ultimate-guitar.com/tab/avenue-beat/f2020-tabs-3248300))
+- [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY?si=up8rGBAjTO-4ZiYHGXP58Q) by Harry Styles ([tab](https://tabs.ultimate-guitar.com/tab/harry-styles/watermelon-sugar-chords-2895911))
+- [IDGAF](https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr?si=DCq9gHhmRCOso-UfztDWFA) by Dua Lipa ([tab](https://tabs.ultimate-guitar.com/tab/dua-lipa/idgaf-official-2396253))
+- [Misirlou](https://open.spotify.com/track/1p791U7Bx5PmvCwucN4PQN?si=GZvYWNVBR-KKbJCHgjm2Jg) by Dick Dale and his Del-Tones ([tab](https://tabs.ultimate-guitar.com/tab/dick-dale/misirlou-guitar-pro-217252))
 - [Chicken in the Corn](https://open.spotify.com/track/2FSU73aYJ7awcgDbL9eAQ7?si=_9LK7-dBSyCxzb7SF2Qhqw) by Brushy One String ([tab](https://tabs.ultimate-guitar.com/tab/brushy-one-string/chicken-in-the-corn-guitar-pro-2747610))
 - [Better Than Me](https://open.spotify.com/track/2ACs0dJwkSsvNZvEbvFurK?si=WYJ8eIjxQriM4MpA1AMMQQ) by The Brobecks ([tab](https://tabs.ultimate-guitar.com/tab/the-brobecks/better-than-me-chords-860284))
 - [Beat It](https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj?si=7xmF6vovRRmZrgbccVKLhw) by Michael Jackson ([tab](https://tabs.ultimate-guitar.com/tab/michael-jackson/beat-it-tabs-1707893))
@@ -34,7 +35,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
-- [Sweet FA](https://open.spotify.com/track/4fY6EU3jUQQISiUR8DLXuM?si=dVFwBf2lQHW1xfd-N6kX5w) by Peach Pit ([tab](https://www.ultimate-guitar.com/search.php?title=Peach+Pit+Sweet+FA))
+- [Left Hand Free](https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN?si=wc00FKsgSp6ZxoG5amAoBQ) by alt-J ([tab](https://www.ultimate-guitar.com/search.php?title=alt-J+Left+Hand+Free))
 - [Johnny B. Goode](https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2?si=qbQ6xhO3SPatGF_-LYxVjQ) by Chuck Berry ([tab](https://www.ultimate-guitar.com/search.php?title=Chuck+Berry+Johnny+B.+Goode))
 - [Teenagers](https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0?si=T7WadN4PTNKO0kDUBV26fw) by My Chemical Romance ([tab](https://www.ultimate-guitar.com/search.php?title=My+Chemical+Romance+Teenagers))
 - [Mr. Brightside](https://open.spotify.com/track/7oK9VyNzrYvRFo7nQEYkWN?si=icEQE3U1TAeg0eBppIK-YQ) by The Killers ([tab](https://www.ultimate-guitar.com/search.php?title=The+Killers+Mr.+Brightside))
