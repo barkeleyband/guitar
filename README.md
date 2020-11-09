@@ -38,6 +38,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Everything You Want](https://open.spotify.com/track/4cKGldbhGJniI8BrB3K6tb?si=NGkL4_bMQrGVlwMCimS9eg) by Vertical Horizon ([tab](https://www.ultimate-guitar.com/search.php?title=Vertical+Horizon+Everything+You+Want))
 - [Lullaby](https://open.spotify.com/track/2objgary7lTlPrbuv8V84t?si=OWm2Od4QRmq0KzLaRi3_Aw) by Billy Cobb ([tab](https://www.ultimate-guitar.com/search.php?title=Billy+Cobb+Lullaby))
 - [Don&#39;t Feel Quite Right](https://open.spotify.com/track/0Snvra2e8WNFin18njZ4G2?si=PChJ98G_Trq1xzSAkCgDGg) by Palaye Royale ([tab](https://www.ultimate-guitar.com/search.php?title=Palaye+Royale+Don&#39;t+Feel+Quite+Right))
 - [Left Hand Free](https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN?si=wc00FKsgSp6ZxoG5amAoBQ) by alt-J ([tab](https://www.ultimate-guitar.com/search.php?title=alt-J+Left+Hand+Free))
