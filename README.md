@@ -37,6 +37,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Don&#39;t Feel Quite Right](https://open.spotify.com/track/0Snvra2e8WNFin18njZ4G2?si=PChJ98G_Trq1xzSAkCgDGg) by Palaye Royale ([tab](https://www.ultimate-guitar.com/search.php?title=Palaye+Royale+Don&#39;t+Feel+Quite+Right))
 - [Left Hand Free](https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN?si=wc00FKsgSp6ZxoG5amAoBQ) by alt-J ([tab](https://www.ultimate-guitar.com/search.php?title=alt-J+Left+Hand+Free))
 - [Johnny B. Goode](https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2?si=qbQ6xhO3SPatGF_-LYxVjQ) by Chuck Berry ([tab](https://www.ultimate-guitar.com/search.php?title=Chuck+Berry+Johnny+B.+Goode))
 - [Teenagers](https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0?si=T7WadN4PTNKO0kDUBV26fw) by My Chemical Romance ([tab](https://www.ultimate-guitar.com/search.php?title=My+Chemical+Romance+Teenagers))
