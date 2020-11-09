@@ -39,6 +39,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [i think too much](https://open.spotify.com/track/6wFqLYmiXyGvprbWa4ogm8) by Christian French ([tab](https://www.ultimate-guitar.com/search.php?title=Christian+French+i+think+too+much))
 - Coffin Dance meme song ([Instagram tutorial](https://www.instagram.com/p/CHQjHkSH_Da/?igshid=16a6e249ztw49))
 - [Everything You Want](https://open.spotify.com/track/4cKGldbhGJniI8BrB3K6tb?si=NGkL4_bMQrGVlwMCimS9eg) by Vertical Horizon ([tab](https://www.ultimate-guitar.com/search.php?title=Vertical+Horizon+Everything+You+Want))
 - [Lullaby](https://open.spotify.com/track/2objgary7lTlPrbuv8V84t?si=OWm2Od4QRmq0KzLaRi3_Aw) by Billy Cobb ([tab](https://www.ultimate-guitar.com/search.php?title=Billy+Cobb+Lullaby))
