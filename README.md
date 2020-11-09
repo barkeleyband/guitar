@@ -10,7 +10,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 - [Essential Guitar Scales](https://www.fender.com/articles/how-to/5-essential-guitar-scales-for-beginners)
 - [Guitar Theory for Dummies Cheat Sheet](https://www.dummies.com/art-center/music/guitar/guitar-theory-for-dummies-cheat-sheet/)
 
-# Songs
+# Guitar Song Collection
 
 ## Guitar Songs I Know
 
@@ -110,6 +110,12 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 - [Stupid for You](https://open.spotify.com/track/1N7Aep1OewK9diaN9WbuuR?si=IybUUuOeT9iq3hki3sqyrQ) by Waterparks ([tab](https://tabs.ultimate-guitar.com/tab/waterparks/stupid-for-you-official-2787112))
 - [Weightless](https://open.spotify.com/track/0aZJGkkXR3DgaFqo5sB8ot?si=CITC_ix1QzyPIi_jYyEByQ) by All Time Low ([tab](https://www.ultimate-guitar.com/search.php?title=All+Time+Low+Weightless))
 - The Legend of Zelda Gerudo Valley ([tab](https://tabs.ultimate-guitar.com/tab/misc-computer-games/the-legend-of-zelda-ocarina-of-time-gerudo-valley-guitar-pro-1194202))
+
+# Bass Song Collection
+
+## Bass Songs I Know
+
+## Bass Songs I'm Learning
 
 ## Bass Songs Backlog
 
