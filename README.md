@@ -34,6 +34,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Sweet FA](https://open.spotify.com/track/4fY6EU3jUQQISiUR8DLXuM?si=dVFwBf2lQHW1xfd-N6kX5w) by Peach Pit ([tab](https://www.ultimate-guitar.com/search.php?title=Peach+Pit+Sweet+FA))
 - [Johnny B. Goode](https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2?si=qbQ6xhO3SPatGF_-LYxVjQ) by Chuck Berry ([tab](https://www.ultimate-guitar.com/search.php?title=Chuck+Berry+Johnny+B.+Goode))
 - [Teenagers](https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0?si=T7WadN4PTNKO0kDUBV26fw) by My Chemical Romance ([tab](https://www.ultimate-guitar.com/search.php?title=My+Chemical+Romance+Teenagers))
 - [Mr. Brightside](https://open.spotify.com/track/7oK9VyNzrYvRFo7nQEYkWN?si=icEQE3U1TAeg0eBppIK-YQ) by The Killers ([tab](https://www.ultimate-guitar.com/search.php?title=The+Killers+Mr.+Brightside))
