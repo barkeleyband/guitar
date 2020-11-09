@@ -15,7 +15,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs I'm Learning
 
-- [Sweet FA](https://open.spotify.com/track/4fY6EU3jUQQISiUR8DLXuM?si=dVFwBf2lQHW1xfd-N6kX5w) by Peach Pit ([tab](https://www.ultimate-guitar.com/search.php?title=Peach+Pit+Sweet+FA))
+- [Sweet FA](https://open.spotify.com/track/4fY6EU3jUQQISiUR8DLXuM?si=dVFwBf2lQHW1xfd-N6kX5w) by Peach Pit ([tab](https://tabs.ultimate-guitar.com/tab/peach-pit/sweet-fa-official-2667645))
 - [Cough Syrup](https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q?si=n4eSPleuSbW7Ke3kSiqelg) by Young the Giant ([tab](https://tabs.ultimate-guitar.com/tab/young-the-giant/cough-syrup-official-2574357))
 - [Talk Too Much](https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq?si=30gGNzC6RM6QyE2y3SHDfw) by COIN ([tab](https://tabs.ultimate-guitar.com/tab/coin/talk-too-much-official-2573376))
 - [F2020](https://open.spotify.com/track/7opTGnWVJcm1e5mWWOldpg?si=F2XBb4C7QV-pT_jYZmcyOQ) by Avenue Beat ([tab](https://tabs.ultimate-guitar.com/tab/avenue-beat/f2020-tabs-3248300))
@@ -32,6 +32,8 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 - Nintendo Wii Shop Channel Theme ([tab](https://tabs.ultimate-guitar.com/tab/misc-computer-games/nintendo-wii-shop-channel-theme-tabs-2316743))
 - Nintendo Mii Channel Theme ([tab](https://tabs.ultimate-guitar.com/tab/misc-computer-games/nintendo-wii-mii-channel-theme-guitar-pro-1471989))
 - [Dirty](https://open.spotify.com/track/3MTfE3Mo3lfwAymYLU2luX?si=ObpFqTISRD-0O-wYa8-fIw) by grandson ([tab](https://tabs.ultimate-guitar.com/tab/grandson/dirty-chords-3349028))
+- X-Men theme song ([tab](https://tabs.ultimate-guitar.com/tab/misc-cartoons/x-men-theme-guitar-pro-572541))
+- Blackbird by The Beatles ([tab](https://tabs.ultimate-guitar.com/tab/the-beatles/blackbird-official-2093927))
 
 ## Guitar Songs Backlog
 
