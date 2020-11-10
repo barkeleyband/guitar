@@ -39,6 +39,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Fresh](https://open.spotify.com/track/3joBAxXdN3HFkvvbkxJEwl) by Artist Vs Poet ([tab](https://www.ultimate-guitar.com/search.php?title=Artist+Vs+Poet+Fresh))
 - [Fvck Somebody](https://open.spotify.com/track/1GU6oaDhWaypMzfP51BYKo) by The Wrecks ([tab](https://www.ultimate-guitar.com/search.php?title=The+Wrecks+Fvck+Somebody))
 - [Favorite Liar](https://open.spotify.com/track/1scwknKtBQpreYy6MSoJqJ) by The Wrecks ([tab](https://www.ultimate-guitar.com/search.php?title=The+Wrecks+Favorite+Liar))
 - [Voices](https://open.spotify.com/track/7JzWz4mgrthdmX52b0Z7mz) by Against The Current ([tab](https://www.ultimate-guitar.com/search.php?title=Against+The+Current+Voices))
