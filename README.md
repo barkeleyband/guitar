@@ -39,6 +39,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Might Be Right](https://open.spotify.com/track/5YTDnlr6qzl0XIGCqHP7sx) by White Reaper ([tab](https://www.ultimate-guitar.com/search.php?title=White+Reaper+Might+Be+Right))
 - [Million Bucks](https://open.spotify.com/track/6Hx7kdHB9kGdxnw2EwSx2V) by Smallpools ([tab](https://www.ultimate-guitar.com/search.php?title=Smallpools+Million+Bucks))
 - [My Thoughts On You](https://open.spotify.com/track/0OkMj0czyhrDCIhOSLFpHK) by The Band CAMINO ([tab](https://www.ultimate-guitar.com/search.php?title=The+Band+CAMINO+My+Thoughts+On+You))
 - [Fresh](https://open.spotify.com/track/3joBAxXdN3HFkvvbkxJEwl) by Artist Vs Poet ([tab](https://www.ultimate-guitar.com/search.php?title=Artist+Vs+Poet+Fresh))
