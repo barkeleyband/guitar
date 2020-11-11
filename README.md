@@ -39,6 +39,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [My Thoughts On You](https://open.spotify.com/track/0OkMj0czyhrDCIhOSLFpHK) by The Band CAMINO ([tab](https://www.ultimate-guitar.com/search.php?title=The+Band+CAMINO+My+Thoughts+On+You))
 - [Fresh](https://open.spotify.com/track/3joBAxXdN3HFkvvbkxJEwl) by Artist Vs Poet ([tab](https://www.ultimate-guitar.com/search.php?title=Artist+Vs+Poet+Fresh))
 - [Fvck Somebody](https://open.spotify.com/track/1GU6oaDhWaypMzfP51BYKo) by The Wrecks ([tab](https://www.ultimate-guitar.com/search.php?title=The+Wrecks+Fvck+Somebody))
 - [Favorite Liar](https://open.spotify.com/track/1scwknKtBQpreYy6MSoJqJ) by The Wrecks ([tab](https://www.ultimate-guitar.com/search.php?title=The+Wrecks+Favorite+Liar))
