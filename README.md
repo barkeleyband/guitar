@@ -39,6 +39,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Sugar, We&#39;re Goin Down](https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE) by Fall Out Boy ([tab](https://www.ultimate-guitar.com/search.php?title=Fall+Out+Boy+Sugar,+We&#39;re+Goin+Down))
 - [Might Be Right](https://open.spotify.com/track/5YTDnlr6qzl0XIGCqHP7sx) by White Reaper ([tab](https://www.ultimate-guitar.com/search.php?title=White+Reaper+Might+Be+Right))
 - [Million Bucks](https://open.spotify.com/track/6Hx7kdHB9kGdxnw2EwSx2V) by Smallpools ([tab](https://www.ultimate-guitar.com/search.php?title=Smallpools+Million+Bucks))
 - [My Thoughts On You](https://open.spotify.com/track/0OkMj0czyhrDCIhOSLFpHK) by The Band CAMINO ([tab](https://www.ultimate-guitar.com/search.php?title=The+Band+CAMINO+My+Thoughts+On+You))
