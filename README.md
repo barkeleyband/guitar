@@ -39,6 +39,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Too Much, Too Young, Too Fast](https://open.spotify.com/track/6fhpnwCBLVamyD7gkZhXjt) by Airbourne ([tab](https://www.ultimate-guitar.com/search.php?title=Airbourne+Too+Much,+Too+Young,+Too+Fast))
 - [I Wanna Rock](https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU) by Twisted Sister ([tab](https://www.ultimate-guitar.com/search.php?title=Twisted+Sister+I+Wanna+Rock))
 - [Sk8er Boi](https://open.spotify.com/track/00Mb3DuaIH1kjrwOku9CGU) by Avril Lavigne ([tab](https://www.ultimate-guitar.com/search.php?title=Avril+Lavigne+Sk8er+Boi))
 - [Levitating (feat. DaBaby)](https://open.spotify.com/track/6OqrJqDMu15AGJHJazg9Nr) by Dua Lipa ([tab](https://www.ultimate-guitar.com/search.php?title=Dua+Lipa+Levitating+(feat.+DaBaby)))
