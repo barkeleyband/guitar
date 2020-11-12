@@ -39,6 +39,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Sun](https://open.spotify.com/track/5saMo1BtSHW111VrurVHe8) by Two Door Cinema Club ([tab](https://www.ultimate-guitar.com/search.php?title=Two+Door+Cinema+Club+Sun))
 - [Something Good Can Work](https://open.spotify.com/track/5yDX0yhtLyf0zEXEqXqyAa) by Two Door Cinema Club ([tab](https://www.ultimate-guitar.com/search.php?title=Two+Door+Cinema+Club+Something+Good+Can+Work))
 - [What You Know](https://open.spotify.com/track/3UjtIALeg72qmJiKPWBvM3) by Two Door Cinema Club ([tab](https://www.ultimate-guitar.com/search.php?title=Two+Door+Cinema+Club+What+You+Know))
 - [Too Much, Too Young, Too Fast](https://open.spotify.com/track/6fhpnwCBLVamyD7gkZhXjt) by Airbourne ([tab](https://www.ultimate-guitar.com/search.php?title=Airbourne+Too+Much,+Too+Young,+Too+Fast))
