@@ -131,6 +131,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Bass Songs Backlog
 
+- [Paradise City](https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5) by Guns N&#39; Roses ([tab](https://www.ultimate-guitar.com/search.php?title=Guns+N&#39;+Roses+Paradise+City))
 - [Another One Bites The Dust - Remastered 2011](https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J) by Queen ([tab](https://www.ultimate-guitar.com/search.php?title=Queen+Another+One+Bites+The+Dust+-+Remastered+2011))
 - [Eggplant](https://open.spotify.com/track/4qgNwAm5F5YUtEgAz3n3fc) by White Reaper ([tab](https://www.ultimate-guitar.com/search.php?title=White+Reaper+Eggplant))
 - [Sugar, We&#39;re Goin Down](https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE) by Fall Out Boy ([tab](https://www.ultimate-guitar.com/search.php?title=Fall+Out+Boy+Sugar,+We&#39;re+Goin+Down))
