@@ -139,6 +139,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Bass Songs Backlog
 
+- [Something Good Can Work](https://open.spotify.com/track/5yDX0yhtLyf0zEXEqXqyAa) by Two Door Cinema Club ([tab](https://www.ultimate-guitar.com/search.php?title=Two+Door+Cinema+Club+Something+Good+Can+Work))
 - [What You Know](https://open.spotify.com/track/3UjtIALeg72qmJiKPWBvM3) by Two Door Cinema Club ([tab](https://www.ultimate-guitar.com/search.php?title=Two+Door+Cinema+Club+What+You+Know))
 - [I Wanna Rock](https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU) by Twisted Sister ([tab](https://www.ultimate-guitar.com/search.php?title=Twisted+Sister+I+Wanna+Rock))
 - [Levitating (feat. DaBaby)](https://open.spotify.com/track/6OqrJqDMu15AGJHJazg9Nr) by Dua Lipa ([tab](https://www.ultimate-guitar.com/search.php?title=Dua+Lipa+Levitating+(feat.+DaBaby)))
