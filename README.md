@@ -39,6 +39,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Paradise City](https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5) by Guns N&#39; Roses ([tab](https://www.ultimate-guitar.com/search.php?title=Guns+N&#39;+Roses+Paradise+City))
 - [Another One Bites The Dust - Remastered 2011](https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J) by Queen ([tab](https://www.ultimate-guitar.com/search.php?title=Queen+Another+One+Bites+The+Dust+-+Remastered+2011))
 - [Back In Black](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) by AC/DC ([tab](https://www.ultimate-guitar.com/search.php?title=AC/DC+Back+In+Black))
 - [Eggplant](https://open.spotify.com/track/4qgNwAm5F5YUtEgAz3n3fc) by White Reaper ([tab](https://www.ultimate-guitar.com/search.php?title=White+Reaper+Eggplant))
