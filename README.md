@@ -39,6 +39,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Are We Ready? (Wreck)](https://open.spotify.com/track/0loXYu3N98L7vy2lNbYm2t) by Two Door Cinema Club ([tab](https://www.ultimate-guitar.com/search.php?title=Two+Door+Cinema+Club+Are+We+Ready?+(Wreck)))
 - [Changing of the Seasons](https://open.spotify.com/track/3KL3eFVpAVW36M9YrK2Zrk) by Two Door Cinema Club ([tab](https://www.ultimate-guitar.com/search.php?title=Two+Door+Cinema+Club+Changing+of+the+Seasons))
 - [I Can Talk](https://open.spotify.com/track/5R34yWuK4EWjy3l6IAfMFJ) by Two Door Cinema Club ([tab](https://www.ultimate-guitar.com/search.php?title=Two+Door+Cinema+Club+I+Can+Talk))
 - [Sun](https://open.spotify.com/track/5saMo1BtSHW111VrurVHe8) by Two Door Cinema Club ([tab](https://www.ultimate-guitar.com/search.php?title=Two+Door+Cinema+Club+Sun))
