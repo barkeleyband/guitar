@@ -39,6 +39,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [My Curse](https://open.spotify.com/track/5fodi5z7BngUgku13WtF81) by Killswitch Engage ([tab](https://www.ultimate-guitar.com/search.php?title=Killswitch+Engage+My+Curse))
 - [Stop](https://open.spotify.com/track/7F0dwqgKzlaIRrngChBRAc) by Jane&#39;s Addiction ([tab](https://www.ultimate-guitar.com/search.php?title=Jane&#39;s+Addiction+Stop))
 - [Paradise City](https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5) by Guns N&#39; Roses ([tab](https://www.ultimate-guitar.com/search.php?title=Guns+N&#39;+Roses+Paradise+City))
 - [Another One Bites The Dust - Remastered 2011](https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J) by Queen ([tab](https://www.ultimate-guitar.com/search.php?title=Queen+Another+One+Bites+The+Dust+-+Remastered+2011))
