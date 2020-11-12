@@ -138,6 +138,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Bass Songs Backlog
 
+- [What You Know](https://open.spotify.com/track/3UjtIALeg72qmJiKPWBvM3) by Two Door Cinema Club ([tab](https://www.ultimate-guitar.com/search.php?title=Two+Door+Cinema+Club+What+You+Know))
 - [I Wanna Rock](https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU) by Twisted Sister ([tab](https://www.ultimate-guitar.com/search.php?title=Twisted+Sister+I+Wanna+Rock))
 - [Levitating (feat. DaBaby)](https://open.spotify.com/track/6OqrJqDMu15AGJHJazg9Nr) by Dua Lipa ([tab](https://www.ultimate-guitar.com/search.php?title=Dua+Lipa+Levitating+(feat.+DaBaby)))
 - [Not Giving In (feat. John Newman &amp; Alex Clare)](https://open.spotify.com/track/0mq8gFHMpr9Pc1603T7cdS) by Rudimental ([tab](https://www.ultimate-guitar.com/search.php?title=Rudimental+Not+Giving+In+(feat.+John+Newman+&amp;+Alex+Clare)))
