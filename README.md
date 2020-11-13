@@ -152,6 +152,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Bass Songs Backlog
 
+- [Re:Re:](https://open.spotify.com/track/28MKy2umF5roXSqmUQ9eB7) by ASIAN KUNG-FU GENERATION ([tab](https://www.ultimate-guitar.com/search.php?title=ASIAN+KUNG-FU+GENERATION+Re:Re:))
 - [Black Madonna](https://open.spotify.com/track/4Y6GIje3GErVRIq1Ff5BJq) by Cage The Elephant ([tab](https://www.ultimate-guitar.com/search.php?title=Cage+The+Elephant+Black+Madonna))
 - [Longview](https://open.spotify.com/track/3LRJbFT9rKoKv4aW7PuBJC) by Green Day ([tab](https://www.ultimate-guitar.com/search.php?title=Green+Day+Longview))
 - [Say It Ain&#39;t So](https://open.spotify.com/track/4YPhn26bIFm2KUkL1VLzQG) by Weezer ([tab](https://www.ultimate-guitar.com/search.php?title=Weezer+Say+It+Ain&#39;t+So))
