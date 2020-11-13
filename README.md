@@ -39,6 +39,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Welcome to the Black Parade](https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW) by My Chemical Romance ([tab](https://www.ultimate-guitar.com/search.php?title=My+Chemical+Romance+Welcome+to+the+Black+Parade))
 - [Re:Re:](https://open.spotify.com/track/28MKy2umF5roXSqmUQ9eB7) by ASIAN KUNG-FU GENERATION ([tab](https://www.ultimate-guitar.com/search.php?title=ASIAN+KUNG-FU+GENERATION+Re:Re:))
 - [Longview](https://open.spotify.com/track/3LRJbFT9rKoKv4aW7PuBJC) by Green Day ([tab](https://www.ultimate-guitar.com/search.php?title=Green+Day+Longview))
 - [Say It Ain&#39;t So](https://open.spotify.com/track/4YPhn26bIFm2KUkL1VLzQG) by Weezer ([tab](https://www.ultimate-guitar.com/search.php?title=Weezer+Say+It+Ain&#39;t+So))
