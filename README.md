@@ -156,6 +156,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Bass Songs Backlog
 
+- [HandClap](https://open.spotify.com/track/0y3fi7fknIXOxnkbUgzT3n) by Fitz and The Tantrums ([tab](https://www.ultimate-guitar.com/search.php?title=Fitz+and+The+Tantrums+HandClap))
 - [The Boys of Summer](https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy) by The Ataris ([tab](https://www.ultimate-guitar.com/search.php?title=The+Ataris+The+Boys+of+Summer))
 - [belong](https://open.spotify.com/track/33n1o7mzohXiCzS6Rr5q2E) by slenderbodies ([tab](https://www.ultimate-guitar.com/search.php?title=slenderbodies+belong))
 - [Dashboard](https://open.spotify.com/track/0Fe3WxeO6lZZxj7ytvbDUh) by Modest Mouse ([tab](https://www.ultimate-guitar.com/search.php?title=Modest+Mouse+Dashboard))
