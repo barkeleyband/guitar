@@ -148,6 +148,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Bass Songs Backlog
 
+- [Self Esteem](https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP) by The Offspring ([tab](https://www.ultimate-guitar.com/search.php?title=The+Offspring+Self+Esteem))
 - [Creep](https://open.spotify.com/track/3HfB5hBU0dmBt8T0iCmH42) by Radiohead ([tab](https://www.ultimate-guitar.com/search.php?title=Radiohead+Creep))
 - [survivin&#39;](https://open.spotify.com/track/1lwvJQGhdq6Kyr4BBquf23) by Bastille ([tab](https://www.ultimate-guitar.com/search.php?title=Bastille+survivin&#39;))
 - [Eat That Up, Its Good for You](https://open.spotify.com/track/40l6zWCpxIuS6YLQlFgKYR) by Two Door Cinema Club ([tab](https://www.ultimate-guitar.com/search.php?title=Two+Door+Cinema+Club+Eat+That+Up,+Its+Good+for+You))
