@@ -157,6 +157,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Bass Songs Backlog
 
+- [Trip Switch](https://open.spotify.com/track/1uqU0nq6DCbJMktSlUvQV8) by Nothing But Thieves ([tab](https://www.ultimate-guitar.com/search.php?title=Nothing+But+Thieves+Trip+Switch))
 - [HandClap](https://open.spotify.com/track/0y3fi7fknIXOxnkbUgzT3n) by Fitz and The Tantrums ([tab](https://www.ultimate-guitar.com/search.php?title=Fitz+and+The+Tantrums+HandClap))
 - [The Boys of Summer](https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy) by The Ataris ([tab](https://www.ultimate-guitar.com/search.php?title=The+Ataris+The+Boys+of+Summer))
 - [belong](https://open.spotify.com/track/33n1o7mzohXiCzS6Rr5q2E) by slenderbodies ([tab](https://www.ultimate-guitar.com/search.php?title=slenderbodies+belong))
