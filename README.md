@@ -39,6 +39,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [In Too Deep](https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL) by Sum 41 ([tab](https://www.ultimate-guitar.com/search.php?title=Sum+41+In+Too+Deep))
 - [Fat Lip](https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN) by Sum 41 ([tab](https://www.ultimate-guitar.com/search.php?title=Sum+41+Fat+Lip))
 - [1985](https://open.spotify.com/track/5oQcOu1omDykbIPSdSQQNJ) by Bowling For Soup ([tab](https://www.ultimate-guitar.com/search.php?title=Bowling+For+Soup+1985))
 - [Welcome to the Black Parade](https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW) by My Chemical Romance ([tab](https://www.ultimate-guitar.com/search.php?title=My+Chemical+Romance+Welcome+to+the+Black+Parade))
