@@ -39,6 +39,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Fat Lip](https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN) by Sum 41 ([tab](https://www.ultimate-guitar.com/search.php?title=Sum+41+Fat+Lip))
 - [1985](https://open.spotify.com/track/5oQcOu1omDykbIPSdSQQNJ) by Bowling For Soup ([tab](https://www.ultimate-guitar.com/search.php?title=Bowling+For+Soup+1985))
 - [Welcome to the Black Parade](https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW) by My Chemical Romance ([tab](https://www.ultimate-guitar.com/search.php?title=My+Chemical+Romance+Welcome+to+the+Black+Parade))
 - [Re:Re:](https://open.spotify.com/track/28MKy2umF5roXSqmUQ9eB7) by ASIAN KUNG-FU GENERATION ([tab](https://www.ultimate-guitar.com/search.php?title=ASIAN+KUNG-FU+GENERATION+Re:Re:))
