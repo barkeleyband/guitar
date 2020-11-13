@@ -39,6 +39,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Turn It Up](https://open.spotify.com/track/09RqMaKclptgWD1Eyd4XMI) by The Wrecks ([tab](https://www.ultimate-guitar.com/search.php?title=The+Wrecks+Turn+It+Up))
 - [In Too Deep](https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL) by Sum 41 ([tab](https://www.ultimate-guitar.com/search.php?title=Sum+41+In+Too+Deep))
 - [Fat Lip](https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN) by Sum 41 ([tab](https://www.ultimate-guitar.com/search.php?title=Sum+41+Fat+Lip))
 - [1985](https://open.spotify.com/track/5oQcOu1omDykbIPSdSQQNJ) by Bowling For Soup ([tab](https://www.ultimate-guitar.com/search.php?title=Bowling+For+Soup+1985))
