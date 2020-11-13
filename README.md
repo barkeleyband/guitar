@@ -39,6 +39,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Can&#39;t Get Enough](https://open.spotify.com/track/4gu7VDmtZLs2NTeDmEwqoq) by The Phantoms ([tab](https://www.ultimate-guitar.com/search.php?title=The+Phantoms+Can&#39;t+Get+Enough))
 - [Changing of the Seasons](https://open.spotify.com/track/4Bvwg6cdVpJOHRRUKZBDAp) by Two Door Cinema Club ([tab](https://www.ultimate-guitar.com/search.php?title=Two+Door+Cinema+Club+Changing+of+the+Seasons))
 - [Turn It Up](https://open.spotify.com/track/09RqMaKclptgWD1Eyd4XMI) by The Wrecks ([tab](https://www.ultimate-guitar.com/search.php?title=The+Wrecks+Turn+It+Up))
 - [In Too Deep](https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL) by Sum 41 ([tab](https://www.ultimate-guitar.com/search.php?title=Sum+41+In+Too+Deep))
@@ -55,7 +56,6 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 - [Superman](https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95) by Goldfinger ([tab](https://www.ultimate-guitar.com/search.php?title=Goldfinger+Superman))
 - [Eat That Up, Its Good for You](https://open.spotify.com/track/40l6zWCpxIuS6YLQlFgKYR) by Two Door Cinema Club ([tab](https://www.ultimate-guitar.com/search.php?title=Two+Door+Cinema+Club+Eat+That+Up,+Its+Good+for+You))
 - [Are We Ready? (Wreck)](https://open.spotify.com/track/0loXYu3N98L7vy2lNbYm2t) by Two Door Cinema Club ([tab](https://www.ultimate-guitar.com/search.php?title=Two+Door+Cinema+Club+Are+We+Ready?+(Wreck)))
-- [Changing of the Seasons](https://open.spotify.com/track/3KL3eFVpAVW36M9YrK2Zrk) by Two Door Cinema Club ([tab](https://www.ultimate-guitar.com/search.php?title=Two+Door+Cinema+Club+Changing+of+the+Seasons))
 - [I Can Talk](https://open.spotify.com/track/5R34yWuK4EWjy3l6IAfMFJ) by Two Door Cinema Club ([tab](https://www.ultimate-guitar.com/search.php?title=Two+Door+Cinema+Club+I+Can+Talk))
 - [Sun](https://open.spotify.com/track/5saMo1BtSHW111VrurVHe8) by Two Door Cinema Club ([tab](https://www.ultimate-guitar.com/search.php?title=Two+Door+Cinema+Club+Sun))
 - [Something Good Can Work](https://open.spotify.com/track/5yDX0yhtLyf0zEXEqXqyAa) by Two Door Cinema Club ([tab](https://www.ultimate-guitar.com/search.php?title=Two+Door+Cinema+Club+Something+Good+Can+Work))
