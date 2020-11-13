@@ -39,6 +39,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Self Esteem](https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP) by The Offspring ([tab](https://www.ultimate-guitar.com/search.php?title=The+Offspring+Self+Esteem))
 - [Creep](https://open.spotify.com/track/3HfB5hBU0dmBt8T0iCmH42) by Radiohead ([tab](https://www.ultimate-guitar.com/search.php?title=Radiohead+Creep))
 - [All The Small Things](https://open.spotify.com/track/7yCPwWs66K8Ba5lFuU2bcx) by blink-182 ([tab](https://www.ultimate-guitar.com/search.php?title=blink-182+All+The+Small+Things))
 - [Superman](https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95) by Goldfinger ([tab](https://www.ultimate-guitar.com/search.php?title=Goldfinger+Superman))
