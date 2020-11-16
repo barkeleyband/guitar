@@ -39,10 +39,11 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 - [Dirty](https://open.spotify.com/track/3MTfE3Mo3lfwAymYLU2luX?si=ObpFqTISRD-0O-wYa8-fIw) by grandson ([tab](https://tabs.ultimate-guitar.com/tab/grandson/dirty-chords-3349028))
 - X-Men theme song ([tab](https://tabs.ultimate-guitar.com/tab/misc-cartoons/x-men-theme-guitar-pro-572541))
 - Blackbird by The Beatles ([tab](https://tabs.ultimate-guitar.com/tab/the-beatles/blackbird-official-2093927))
+- [Highway to Hell](https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s) by AC/DC ([tab](https://tabs.ultimate-guitar.com/tab/acdc/highway-to-hell-official-1916729))
 
 ## Guitar Songs Backlog
 
-- [Highway to Hell](https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s) by AC/DC ([tab](https://www.ultimate-guitar.com/search.php?title=AC/DC+Highway+to+Hell))
+- [You Shook Me All Night Long](https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo) by AC/DC ([tab](https://www.ultimate-guitar.com/search.php?title=AC/DC+You+Shook+Me+All+Night+Long))
 - [Can&#39;t Get Enough](https://open.spotify.com/track/4gu7VDmtZLs2NTeDmEwqoq) by The Phantoms ([tab](https://www.ultimate-guitar.com/search.php?title=The+Phantoms+Can&#39;t+Get+Enough))
 - [Changing of the Seasons](https://open.spotify.com/track/4Bvwg6cdVpJOHRRUKZBDAp) by Two Door Cinema Club ([tab](https://www.ultimate-guitar.com/search.php?title=Two+Door+Cinema+Club+Changing+of+the+Seasons))
 - [Turn It Up](https://open.spotify.com/track/09RqMaKclptgWD1Eyd4XMI) by The Wrecks ([tab](https://www.ultimate-guitar.com/search.php?title=The+Wrecks+Turn+It+Up))
