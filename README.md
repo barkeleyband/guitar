@@ -14,8 +14,11 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs I Know
 
+- Danny Phantom theme song ([tab](https://tabs.ultimate-guitar.com/tab/misc-cartoons/danny-phantom-theme-tabs-2732916))
+
 ## Guitar Songs I'm Learning
 
+- [Back In Black](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) by AC/DC ([tab](https://tabs.ultimate-guitar.com/tab/acdc/back-in-black-official-1916243))
 - [Sweet FA](https://open.spotify.com/track/4fY6EU3jUQQISiUR8DLXuM?si=dVFwBf2lQHW1xfd-N6kX5w) by Peach Pit ([tab](https://tabs.ultimate-guitar.com/tab/peach-pit/sweet-fa-official-2667645))
 - [Cough Syrup](https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q?si=n4eSPleuSbW7Ke3kSiqelg) by Young the Giant ([tab](https://tabs.ultimate-guitar.com/tab/young-the-giant/cough-syrup-official-2574357))
 - [Talk Too Much](https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq?si=30gGNzC6RM6QyE2y3SHDfw) by COIN ([tab](https://tabs.ultimate-guitar.com/tab/coin/talk-too-much-official-2573376))
@@ -39,6 +42,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Highway to Hell](https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s) by AC/DC ([tab](https://www.ultimate-guitar.com/search.php?title=AC/DC+Highway+to+Hell))
 - [Can&#39;t Get Enough](https://open.spotify.com/track/4gu7VDmtZLs2NTeDmEwqoq) by The Phantoms ([tab](https://www.ultimate-guitar.com/search.php?title=The+Phantoms+Can&#39;t+Get+Enough))
 - [Changing of the Seasons](https://open.spotify.com/track/4Bvwg6cdVpJOHRRUKZBDAp) by Two Door Cinema Club ([tab](https://www.ultimate-guitar.com/search.php?title=Two+Door+Cinema+Club+Changing+of+the+Seasons))
 - [Turn It Up](https://open.spotify.com/track/09RqMaKclptgWD1Eyd4XMI) by The Wrecks ([tab](https://www.ultimate-guitar.com/search.php?title=The+Wrecks+Turn+It+Up))
@@ -68,7 +72,6 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 - [Stop](https://open.spotify.com/track/7F0dwqgKzlaIRrngChBRAc) by Jane&#39;s Addiction ([tab](https://www.ultimate-guitar.com/search.php?title=Jane&#39;s+Addiction+Stop))
 - [Paradise City](https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5) by Guns N&#39; Roses ([tab](https://www.ultimate-guitar.com/search.php?title=Guns+N&#39;+Roses+Paradise+City))
 - [Another One Bites The Dust - Remastered 2011](https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J) by Queen ([tab](https://www.ultimate-guitar.com/search.php?title=Queen+Another+One+Bites+The+Dust+-+Remastered+2011))
-- [Back In Black](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) by AC/DC ([tab](https://www.ultimate-guitar.com/search.php?title=AC/DC+Back+In+Black))
 - [Eggplant](https://open.spotify.com/track/4qgNwAm5F5YUtEgAz3n3fc) by White Reaper ([tab](https://www.ultimate-guitar.com/search.php?title=White+Reaper+Eggplant))
 - [Sugar, We&#39;re Goin Down](https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE) by Fall Out Boy ([tab](https://www.ultimate-guitar.com/search.php?title=Fall+Out+Boy+Sugar,+We&#39;re+Goin+Down))
 - [Might Be Right](https://open.spotify.com/track/5YTDnlr6qzl0XIGCqHP7sx) by White Reaper ([tab](https://www.ultimate-guitar.com/search.php?title=White+Reaper+Might+Be+Right))
