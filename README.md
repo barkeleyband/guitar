@@ -163,6 +163,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Bass Songs Backlog
 
+- [Dance, Dance](https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7) by Fall Out Boy ([tab](https://www.ultimate-guitar.com/search.php?title=Fall+Out+Boy+Dance,+Dance))
 - [Signed, Sealed, Delivered (I&#39;m Yours)](https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc) by Stevie Wonder ([tab](https://www.ultimate-guitar.com/search.php?title=Stevie+Wonder+Signed,+Sealed,+Delivered+(I&#39;m+Yours)))
 - [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) by Coldplay ([tab](https://www.ultimate-guitar.com/search.php?title=Coldplay+Yellow))
 - [Uptown Funk (feat. Bruno Mars)](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) by Mark Ronson ([tab](https://www.ultimate-guitar.com/search.php?title=Mark+Ronson+Uptown+Funk+(feat.+Bruno+Mars)))
