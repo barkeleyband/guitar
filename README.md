@@ -43,6 +43,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Dance, Dance](https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7) by Fall Out Boy ([tab](https://www.ultimate-guitar.com/search.php?title=Fall+Out+Boy+Dance,+Dance))
 - [You Shook Me All Night Long](https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo) by AC/DC ([tab](https://tabs.ultimate-guitar.com/tab/acdc/you-shook-me-all-night-long-official-1936231))
 - [Can&#39;t Get Enough](https://open.spotify.com/track/4gu7VDmtZLs2NTeDmEwqoq) by The Phantoms ([tab](https://www.ultimate-guitar.com/search.php?title=The+Phantoms+Can&#39;t+Get+Enough))
 - [Changing of the Seasons](https://open.spotify.com/track/4Bvwg6cdVpJOHRRUKZBDAp) by Two Door Cinema Club ([tab](https://www.ultimate-guitar.com/search.php?title=Two+Door+Cinema+Club+Changing+of+the+Seasons))
