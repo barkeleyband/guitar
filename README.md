@@ -162,6 +162,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Bass Songs Backlog
 
+- [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) by Coldplay ([tab](https://www.ultimate-guitar.com/search.php?title=Coldplay+Yellow))
 - [Uptown Funk (feat. Bruno Mars)](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) by Mark Ronson ([tab](https://www.ultimate-guitar.com/search.php?title=Mark+Ronson+Uptown+Funk+(feat.+Bruno+Mars)))
 - [Break My Heart](https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT) by Dua Lipa ([tab](https://www.ultimate-guitar.com/search.php?title=Dua+Lipa+Break+My+Heart))
 - [Elevate](https://open.spotify.com/track/4Mi5rr7qjDd5rfXQdDgDNo) by Two Another ([tab](https://www.ultimate-guitar.com/search.php?title=Two+Another+Elevate))
