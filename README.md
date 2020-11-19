@@ -43,6 +43,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Bombtrack](https://open.spotify.com/track/2rBHnIxbhkMGLpqmsNX91M) by Rage Against The Machine ([tab](https://www.ultimate-guitar.com/search.php?title=Rage+Against+The+Machine+Bombtrack))
 - [Renegades Of Funk](https://open.spotify.com/track/5YBVDvTSSSiqv7KZDeUlXA) by Rage Against The Machine ([tab](https://www.ultimate-guitar.com/search.php?title=Rage+Against+The+Machine+Renegades+Of+Funk))
 - [Guerrilla Radio](https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8) by Rage Against The Machine ([tab](https://www.ultimate-guitar.com/search.php?title=Rage+Against+The+Machine+Guerrilla+Radio))
 - [Killing In The Name](https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp) by Rage Against The Machine ([tab](https://www.ultimate-guitar.com/search.php?title=Rage+Against+The+Machine+Killing+In+The+Name))
