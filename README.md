@@ -43,6 +43,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Guerrilla Radio](https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8) by Rage Against The Machine ([tab](https://www.ultimate-guitar.com/search.php?title=Rage+Against+The+Machine+Guerrilla+Radio))
 - [Killing In The Name](https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp) by Rage Against The Machine ([tab](https://www.ultimate-guitar.com/search.php?title=Rage+Against+The+Machine+Killing+In+The+Name))
 - [Dance, Dance](https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7) by Fall Out Boy ([tab](https://www.ultimate-guitar.com/search.php?title=Fall+Out+Boy+Dance,+Dance))
 - [You Shook Me All Night Long](https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo) by AC/DC ([tab](https://tabs.ultimate-guitar.com/tab/acdc/you-shook-me-all-night-long-official-1936231))
