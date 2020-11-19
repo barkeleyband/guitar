@@ -169,6 +169,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Bass Songs Backlog
 
+- [Hotel California - 2013 Remaster](https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv) by Eagles ([tab](https://www.ultimate-guitar.com/search.php?title=Eagles+Hotel+California+-+2013+Remaster))
 - [Take The Power Back](https://open.spotify.com/track/25CbtOzU8Pn17SAaXFjIR3) by Rage Against The Machine ([tab](https://www.ultimate-guitar.com/search.php?title=Rage+Against+The+Machine+Take+The+Power+Back))
 - [Dance, Dance](https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7) by Fall Out Boy ([tab](https://www.ultimate-guitar.com/search.php?title=Fall+Out+Boy+Dance,+Dance))
 - [Signed, Sealed, Delivered (I&#39;m Yours)](https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc) by Stevie Wonder ([tab](https://www.ultimate-guitar.com/search.php?title=Stevie+Wonder+Signed,+Sealed,+Delivered+(I&#39;m+Yours)))
