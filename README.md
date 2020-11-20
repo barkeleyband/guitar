@@ -179,6 +179,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Bass Songs Backlog
 
+- [Don&#39;t You Evah](https://open.spotify.com/track/7BL20x1o7Xp13doge3OeRP) by Spoon ([tab](https://www.ultimate-guitar.com/search.php?title=Spoon+Don&#39;t+You+Evah))
 - [Dynamite](https://open.spotify.com/track/0t1kP63rueHleOhQkYSXFY) by BTS ([tab](https://www.ultimate-guitar.com/search.php?title=BTS+Dynamite))
 - [Conversations with my Wife](https://open.spotify.com/track/1EAZ0APxPiVuzDb7R5TfVI) by Jon Bellion ([tab](https://www.ultimate-guitar.com/search.php?title=Jon+Bellion+Conversations+with+my+Wife))
 - [Hotel California - 2013 Remaster](https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv) by Eagles ([tab](https://www.ultimate-guitar.com/search.php?title=Eagles+Hotel+California+-+2013+Remaster))
