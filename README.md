@@ -43,6 +43,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Get Over It](https://open.spotify.com/track/0SLOiJClXkAZluClYpke95) by OK Go ([tab](https://www.ultimate-guitar.com/search.php?title=OK+Go+Get+Over+It))
 - [Painkiller](https://open.spotify.com/track/15BsrefgYpMgu1ZCIr8EJw) by DREAMERS ([tab](https://www.ultimate-guitar.com/search.php?title=DREAMERS+Painkiller))
 - [Brain Stew](https://open.spotify.com/track/1nLnpLXvl68RZCSjfkyiaa) by Green Day ([tab](https://www.ultimate-guitar.com/search.php?title=Green+Day+Brain+Stew))
 - [Take The Power Back](https://open.spotify.com/track/25CbtOzU8Pn17SAaXFjIR3) by Rage Against The Machine ([tab](https://www.ultimate-guitar.com/search.php?title=Rage+Against+The+Machine+Take+The+Power+Back))
