@@ -43,6 +43,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Brain Stew](https://open.spotify.com/track/1nLnpLXvl68RZCSjfkyiaa) by Green Day ([tab](https://www.ultimate-guitar.com/search.php?title=Green+Day+Brain+Stew))
 - [Take The Power Back](https://open.spotify.com/track/25CbtOzU8Pn17SAaXFjIR3) by Rage Against The Machine ([tab](https://www.ultimate-guitar.com/search.php?title=Rage+Against+The+Machine+Take+The+Power+Back))
 - [Know Your Enemy](https://open.spotify.com/track/1XTGyfJeMiZXrZ1W3NolcB) by Rage Against The Machine ([tab](https://www.ultimate-guitar.com/search.php?title=Rage+Against+The+Machine+Know+Your+Enemy))
 - [Bombtrack](https://open.spotify.com/track/2rBHnIxbhkMGLpqmsNX91M) by Rage Against The Machine ([tab](https://www.ultimate-guitar.com/search.php?title=Rage+Against+The+Machine+Bombtrack))
