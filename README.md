@@ -49,6 +49,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Holiday](https://open.spotify.com/track/4VgEM12OeaN3GyBV487Me7) by Green Day ([tab](https://www.ultimate-guitar.com/search.php?title=Green+Day+Holiday))
 - [Do You](https://open.spotify.com/track/08a6PhXyXeN3lv1DCKW9qY) by Spoon ([tab](https://www.ultimate-guitar.com/search.php?title=Spoon+Do+You))
 - [Don&#39;t You Evah](https://open.spotify.com/track/7BL20x1o7Xp13doge3OeRP) by Spoon ([tab](https://www.ultimate-guitar.com/search.php?title=Spoon+Don&#39;t+You+Evah))
 - [Get Over It](https://open.spotify.com/track/0SLOiJClXkAZluClYpke95) by OK Go ([tab](https://www.ultimate-guitar.com/search.php?title=OK+Go+Get+Over+It))
