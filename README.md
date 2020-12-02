@@ -49,6 +49,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [99 Red Balloons](https://open.spotify.com/track/0rOTMSSa6yscfOrGnzfheM) by Goldfinger ([tab](https://www.ultimate-guitar.com/search.php?title=Goldfinger+99+Red+Balloons))
 - [Welcome to Paradise](https://open.spotify.com/track/5kr3j5Clb9rjEposoMyLVt) by Green Day ([tab](https://www.ultimate-guitar.com/search.php?title=Green+Day+Welcome+to+Paradise))
 - [My Own Worst Enemy](https://open.spotify.com/track/39sICagGOiysHxoIBRyLLi) by Lit ([tab](https://www.ultimate-guitar.com/search.php?title=Lit+My+Own+Worst+Enemy))
 - [Sweet Child O&#39; Mine](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW) by Guns N&#39; Roses ([tab](https://www.ultimate-guitar.com/search.php?title=Guns+N&#39;+Roses+Sweet+Child+O&#39;+Mine))
