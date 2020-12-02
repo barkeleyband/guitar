@@ -49,6 +49,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Sweet Child O&#39; Mine](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW) by Guns N&#39; Roses ([tab](https://www.ultimate-guitar.com/search.php?title=Guns+N&#39;+Roses+Sweet+Child+O&#39;+Mine))
 - [Welcome To The Jungle](https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8) by Guns N&#39; Roses ([tab](https://www.ultimate-guitar.com/search.php?title=Guns+N&#39;+Roses+Welcome+To+The+Jungle))
 - [The Boys Are Back In Town](https://open.spotify.com/track/7GjkulnsthMabfcMup1OaJ) by Thin Lizzy ([tab](https://www.ultimate-guitar.com/search.php?title=Thin+Lizzy+The+Boys+Are+Back+In+Town))
 - [Holiday](https://open.spotify.com/track/4VgEM12OeaN3GyBV487Me7) by Green Day ([tab](https://www.ultimate-guitar.com/search.php?title=Green+Day+Holiday))
