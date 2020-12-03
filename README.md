@@ -49,6 +49,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Shine A Little Light](https://open.spotify.com/track/365TSrFPqM66giaxJuafR3) by The Black Keys ([tab](https://www.ultimate-guitar.com/search.php?title=The+Black+Keys+Shine+A+Little+Light))
 - [99 Red Balloons](https://open.spotify.com/track/0rOTMSSa6yscfOrGnzfheM) by Goldfinger ([tab](https://www.ultimate-guitar.com/search.php?title=Goldfinger+99+Red+Balloons))
 - [Welcome to Paradise](https://open.spotify.com/track/5kr3j5Clb9rjEposoMyLVt) by Green Day ([tab](https://www.ultimate-guitar.com/search.php?title=Green+Day+Welcome+to+Paradise))
 - [My Own Worst Enemy](https://open.spotify.com/track/39sICagGOiysHxoIBRyLLi) by Lit ([tab](https://www.ultimate-guitar.com/search.php?title=Lit+My+Own+Worst+Enemy))
