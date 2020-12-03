@@ -49,6 +49,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Love Her](https://open.spotify.com/track/2hgk8iKN9UdoM4ILlJ9F5N) by Jonas Brothers ([tab](https://www.ultimate-guitar.com/search.php?title=Jonas+Brothers+Love+Her))
 - [Shine A Little Light](https://open.spotify.com/track/365TSrFPqM66giaxJuafR3) by The Black Keys ([tab](https://www.ultimate-guitar.com/search.php?title=The+Black+Keys+Shine+A+Little+Light))
 - [99 Red Balloons](https://open.spotify.com/track/0rOTMSSa6yscfOrGnzfheM) by Goldfinger ([tab](https://www.ultimate-guitar.com/search.php?title=Goldfinger+99+Red+Balloons))
 - [Welcome to Paradise](https://open.spotify.com/track/5kr3j5Clb9rjEposoMyLVt) by Green Day ([tab](https://www.ultimate-guitar.com/search.php?title=Green+Day+Welcome+to+Paradise))
