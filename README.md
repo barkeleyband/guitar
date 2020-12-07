@@ -6,7 +6,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 # Resources
 
-- [Guitar Note Flashcards](https://musicards.net/music_flash_cards/read_guitar_notes.html)
+- [Guitar Note Flashcard Website](https://jessemillar.com/r/fretboard)
 - [Essential Guitar Scales](https://www.fender.com/articles/how-to/5-essential-guitar-scales-for-beginners)
 - [Guitar Theory for Dummies Cheat Sheet](https://www.dummies.com/art-center/music/guitar/guitar-theory-for-dummies-cheat-sheet/)
 
