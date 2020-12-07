@@ -191,6 +191,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Bass Songs Backlog
 
+- [Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L) by a-ha ([tab](https://www.ultimate-guitar.com/search.php?title=a-ha+Take+on+Me))
 - [Teeth](https://open.spotify.com/track/26wLOs3ZuHJa2Ihhx6QIE6) by 5 Seconds of Summer ([tab](https://www.ultimate-guitar.com/search.php?title=5+Seconds+of+Summer+Teeth))
 - [A Good Song Never Dies](https://open.spotify.com/track/2BXSzLcipRr7DHNQW42NbG) by Saint Motel ([tab](https://www.ultimate-guitar.com/search.php?title=Saint+Motel+A+Good+Song+Never+Dies))
 - [Sweet Child O&#39; Mine](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW) by Guns N&#39; Roses ([tab](https://www.ultimate-guitar.com/search.php?title=Guns+N&#39;+Roses+Sweet+Child+O&#39;+Mine))
