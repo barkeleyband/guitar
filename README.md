@@ -199,6 +199,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Bass Songs Backlog
 
+- [Drawing Pins](https://open.spotify.com/track/72zuQJFUUk2iTd9ItBgmYi) by Nothing But Thieves ([tab](https://www.ultimate-guitar.com/search.php?title=Nothing+But+Thieves+Drawing+Pins))
 - [Let Me Down](https://open.spotify.com/track/0vVkuvsZVOC83mgZAtemK5) by Oliver Tree ([tab](https://www.ultimate-guitar.com/search.php?title=Oliver+Tree+Let+Me+Down))
 - [Good As It Gets](https://open.spotify.com/track/79HFFYAPOd80mvfOkwDv1n) by Little Hurt ([tab](https://www.ultimate-guitar.com/search.php?title=Little+Hurt+Good+As+It+Gets))
 - [OK OK](https://open.spotify.com/track/0UCSqy0XuSN3FUITKjtljZ) by HOKO ([tab](https://www.ultimate-guitar.com/search.php?title=HOKO+OK+OK))
