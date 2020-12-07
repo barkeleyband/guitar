@@ -49,6 +49,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L) by a-ha ([tab](https://www.ultimate-guitar.com/search.php?title=a-ha+Take+on+Me))
 - [I See Fire](https://open.spotify.com/track/1fu5IQSRgPxJL2OTP7FVLW) by Ed Sheeran ([tab](https://www.ultimate-guitar.com/search.php?title=Ed+Sheeran+I+See+Fire))
 - [Love Her](https://open.spotify.com/track/2hgk8iKN9UdoM4ILlJ9F5N) by Jonas Brothers ([tab](https://www.ultimate-guitar.com/search.php?title=Jonas+Brothers+Love+Her))
 - [Shine A Little Light](https://open.spotify.com/track/365TSrFPqM66giaxJuafR3) by The Black Keys ([tab](https://www.ultimate-guitar.com/search.php?title=The+Black+Keys+Shine+A+Little+Light))
