@@ -195,6 +195,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Bass Songs Backlog
 
+- [Painkiller](https://open.spotify.com/track/60vS0Rp0z0ycU5voBEsG3h) by Nothing But Thieves ([tab](https://www.ultimate-guitar.com/search.php?title=Nothing+But+Thieves+Painkiller))
 - [Is Everybody Going Crazy?](https://open.spotify.com/track/75yY1Ghs6E32WC4kSikXRJ) by Nothing But Thieves ([tab](https://www.ultimate-guitar.com/search.php?title=Nothing+But+Thieves+Is+Everybody+Going+Crazy?))
 - [Let Me Move You - From the Netflix film Work It](https://open.spotify.com/track/0roOLcll6SSTYZwsQFmXqP) by Sabrina Carpenter ([tab](https://www.ultimate-guitar.com/search.php?title=Sabrina+Carpenter+Let+Me+Move+You+-+From+the+Netflix+film+Work+It))
 - [Never Gonna Give You Up](https://open.spotify.com/track/7GhIk7Il098yCjg4BQjzvb) by Rick Astley ([tab](https://www.ultimate-guitar.com/search.php?title=Rick+Astley+Never+Gonna+Give+You+Up))
