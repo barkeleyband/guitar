@@ -189,6 +189,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Bass Songs Backlog
 
+- [A Good Song Never Dies](https://open.spotify.com/track/2BXSzLcipRr7DHNQW42NbG) by Saint Motel ([tab](https://www.ultimate-guitar.com/search.php?title=Saint+Motel+A+Good+Song+Never+Dies))
 - [Sweet Child O&#39; Mine](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW) by Guns N&#39; Roses ([tab](https://www.ultimate-guitar.com/search.php?title=Guns+N&#39;+Roses+Sweet+Child+O&#39;+Mine))
 - [Holiday](https://open.spotify.com/track/4VgEM12OeaN3GyBV487Me7) by Green Day ([tab](https://www.ultimate-guitar.com/search.php?title=Green+Day+Holiday))
 - [Don&#39;t You Evah](https://open.spotify.com/track/7BL20x1o7Xp13doge3OeRP) by Spoon ([tab](https://www.ultimate-guitar.com/search.php?title=Spoon+Don&#39;t+You+Evah))
