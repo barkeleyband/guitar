@@ -49,6 +49,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Put The Knife Away](https://open.spotify.com/track/1Wc4oMYsjCqMSDQST8oXEr) by Goldfinger ([tab](https://www.ultimate-guitar.com/search.php?title=Goldfinger+Put+The+Knife+Away))
 - [Everything Is Alright](https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV) by Motion City Soundtrack ([tab](https://www.ultimate-guitar.com/search.php?title=Motion+City+Soundtrack+Everything+Is+Alright))
 - [Let Me Down](https://open.spotify.com/track/0vVkuvsZVOC83mgZAtemK5) by Oliver Tree ([tab](https://www.ultimate-guitar.com/search.php?title=Oliver+Tree+Let+Me+Down))
 - [Hanging](https://open.spotify.com/track/1g4DuSKf6rMdOTzrEcGB6o) by Nothing But Thieves ([tab](https://www.ultimate-guitar.com/search.php?title=Nothing+But+Thieves+Hanging))
