@@ -196,6 +196,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Bass Songs Backlog
 
+- [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) by Dominic Fike ([tab](https://www.ultimate-guitar.com/search.php?title=Dominic+Fike+3+Nights))
 - [Preach](https://open.spotify.com/track/7svvtHupmoatujwlhrHhIJ) by Saint Motel ([tab](https://www.ultimate-guitar.com/search.php?title=Saint+Motel+Preach))
 - [Hanging](https://open.spotify.com/track/1g4DuSKf6rMdOTzrEcGB6o) by Nothing But Thieves ([tab](https://www.ultimate-guitar.com/search.php?title=Nothing+But+Thieves+Hanging))
 - [Honey Whiskey](https://open.spotify.com/track/730AR8R0KvjxVeHmrYy4OR) by Nothing But Thieves ([tab](https://www.ultimate-guitar.com/search.php?title=Nothing+But+Thieves+Honey+Whiskey))
