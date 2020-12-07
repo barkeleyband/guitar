@@ -49,6 +49,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Is Everybody Going Crazy?](https://open.spotify.com/track/75yY1Ghs6E32WC4kSikXRJ) by Nothing But Thieves ([tab](https://www.ultimate-guitar.com/search.php?title=Nothing+But+Thieves+Is+Everybody+Going+Crazy?))
 - [Never Gonna Give You Up](https://open.spotify.com/track/7GhIk7Il098yCjg4BQjzvb) by Rick Astley ([tab](https://www.ultimate-guitar.com/search.php?title=Rick+Astley+Never+Gonna+Give+You+Up))
 - [Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L) by a-ha ([tab](https://www.ultimate-guitar.com/search.php?title=a-ha+Take+on+Me))
 - [I See Fire](https://open.spotify.com/track/1fu5IQSRgPxJL2OTP7FVLW) by Ed Sheeran ([tab](https://www.ultimate-guitar.com/search.php?title=Ed+Sheeran+I+See+Fire))
