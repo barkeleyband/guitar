@@ -199,6 +199,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Bass Songs Backlog
 
+- [Tip Toes](https://open.spotify.com/track/7DwaOIkZk8qLJKGX7XTF2l) by half•alive ([tab](https://www.ultimate-guitar.com/search.php?title=half•alive+Tip+Toes))
 - [Dangerous (feat. Joywave)](https://open.spotify.com/track/3y8AEUef1AVfr0npU5UOa9) by Big Data ([tab](https://www.ultimate-guitar.com/search.php?title=Big+Data+Dangerous+(feat.+Joywave)))
 - [Drawing Pins](https://open.spotify.com/track/72zuQJFUUk2iTd9ItBgmYi) by Nothing But Thieves ([tab](https://www.ultimate-guitar.com/search.php?title=Nothing+But+Thieves+Drawing+Pins))
 - [Let Me Down](https://open.spotify.com/track/0vVkuvsZVOC83mgZAtemK5) by Oliver Tree ([tab](https://www.ultimate-guitar.com/search.php?title=Oliver+Tree+Let+Me+Down))
