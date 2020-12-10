@@ -49,6 +49,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [half alive](https://open.spotify.com/track/3Aua1bpEgSQvAOKgwUsS5g) by blackbear ([tab](https://www.ultimate-guitar.com/search.php?title=blackbear+half+alive))
 - [Put The Knife Away](https://open.spotify.com/track/1Wc4oMYsjCqMSDQST8oXEr) by Goldfinger ([tab](https://www.ultimate-guitar.com/search.php?title=Goldfinger+Put+The+Knife+Away))
 - [Everything Is Alright](https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV) by Motion City Soundtrack ([tab](https://www.ultimate-guitar.com/search.php?title=Motion+City+Soundtrack+Everything+Is+Alright))
 - [Let Me Down](https://open.spotify.com/track/0vVkuvsZVOC83mgZAtemK5) by Oliver Tree ([tab](https://www.ultimate-guitar.com/search.php?title=Oliver+Tree+Let+Me+Down))
