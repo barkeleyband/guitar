@@ -6,14 +6,11 @@
 |[BOSS RC-5](https://www.boss.info/us/products/rc-5/specifications/)|Wishlist|DC 9V|170 mA|?|Buffered|
 |[BOSS DS-1](https://www.boss.info/us/products/ds-1/specifications/)|Wishlist|?|20 mA|?|Buffered|
 |[OMEC Teleport](https://orangeamps.com/omec-teleport-manual/)|Wishlist|DC 9V|85 mA|2.1mm center -|Buffered|
-|Big Muff Nano|Wishlist|||||
-|BOSS VB-2w|Wishlist|||||
-|BOSS DM-2w|Wishlist|||||
-|BOSS CS-3|Wishlist|||||
-
-### Staples
-
-- Wah pedal
+|[Cry Baby Mini Wah](https://www.jimdunlop.com/content/manuals/CBM95.pdf)|Wishlist|?|900 µA|?|True Bypass|
+|[Big Muff Nano]()|Wishlist|?|?|?|?|
+|[BOSS VB-2w]()|Wishlist|?|?|?|?|
+|[BOSS DM-2w]()|Wishlist|?|?|?|?|
+|[BOSS CS-3]()|Wishlist|?|?|?|?|
 
 ## Gear
 
