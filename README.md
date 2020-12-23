@@ -51,6 +51,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Scars](https://open.spotify.com/track/1UREw2MCfU0xwBzCAjxlUD) by Papa Roach ([tab](https://www.ultimate-guitar.com/search.php?title=Papa+Roach+Scars))
 - [Last Resort](https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky) by Papa Roach ([tab](https://www.ultimate-guitar.com/search.php?title=Papa+Roach+Last+Resort))
 - [Out Of Time](https://open.spotify.com/track/2ue0yHbKwnsj8HXLLgMzVi) by Bradley Cooper ([tab](https://www.ultimate-guitar.com/search.php?title=Bradley+Cooper+Out+Of+Time))
 - [Sweet Disposition](https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd) by The Temper Trap ([tab](https://www.ultimate-guitar.com/search.php?title=The+Temper+Trap+Sweet+Disposition))

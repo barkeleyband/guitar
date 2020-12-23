@@ -4,7 +4,7 @@
 |---|---|---|---|---|--|
 |[BOSS TU-3](https://www.boss.info/us/products/tu-3/specifications/)|Owned|DC 9 V|20 mA|?|Buffered|
 |[BOSS RC-5](https://www.boss.info/us/products/rc-5/specifications/)|Wishlist|DC 9 V|170 mA|?|Buffered|
-|[BOSS DS-1](https://www.boss.info/us/products/ds-1/specifications/)|Wishlist|?|20 mA|?|?|
+|[BOSS DS-1](https://www.boss.info/us/products/ds-1/specifications/)|Wishlist|?|20 mA|?|Buffered|
 
 ### Staples
 
