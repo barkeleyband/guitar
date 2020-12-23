@@ -1,12 +1,19 @@
 ## Pedals
 
+### Owned
+
+|Pedal|Voltage|Current Draw|Connection|Bypass Type|
+|---|---|---|
+|[BOSS RC-5](https://www.boss.info/us/products/rc-5/specifications/)|DC 9 V|170 mA|?|Buffered|
+|[BOSS TU-3](https://www.boss.info/us/products/tu-3/specifications/)|DC 9 V|20 mA|?|Buffered|
+
 ### Staples
 
 - BOSS RC-5
 - BOSS Tuner
 - BOSS Distortion
-- Wah pedal
 - OMEC Teleport
+- Wah pedal
 
 ### Future
 
