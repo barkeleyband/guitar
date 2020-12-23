@@ -206,6 +206,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Bass Songs Backlog
 
+- [The Thrill](https://open.spotify.com/track/7y04ujW6SdgOFHtHvqGkBB) by Yam Haus ([tab](https://www.ultimate-guitar.com/search.php?title=Yam+Haus+The+Thrill))
 - [half alive](https://open.spotify.com/track/3Aua1bpEgSQvAOKgwUsS5g) by blackbear ([tab](https://www.ultimate-guitar.com/search.php?title=blackbear+half+alive))
 - [still feel.](https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5) by half•alive ([tab](https://www.ultimate-guitar.com/search.php?title=half•alive+still+feel.))
 - [Tip Toes](https://open.spotify.com/track/7DwaOIkZk8qLJKGX7XTF2l) by half•alive ([tab](https://www.ultimate-guitar.com/search.php?title=half•alive+Tip+Toes))
