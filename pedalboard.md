@@ -5,10 +5,10 @@
 |[BOSS TU-3](https://www.boss.info/us/products/tu-3/specifications/)|Tuner|Owned|20 mA|DC 9V|?|Buffered|
 |[BOSS RC-5](https://www.boss.info/us/products/rc-5/specifications/)|Looper|Wishlist|170 mA|DC 9V|?|Buffered|
 |[BOSS DS-1](https://www.boss.info/us/products/ds-1/specifications/)|Distortion|Wishlist|20 mA|?|?|Buffered|
-|[OMEC Teleport](https://orangeamps.com/omec-teleport-manual/)|Audio Interface|Wishlist ([$139](https://www.sweetwater.com/store/detail/Teleport--orange-omec-teleport-guitar-audio-interface))|85 mA|DC 9V|2.1mm center negative|Buffered|
+|[OMEC Teleport](https://orangeamps.com/omec-teleport-manual/)|Audio Interface|Wishlist ([$140](https://www.sweetwater.com/store/detail/Teleport--orange-omec-teleport-guitar-audio-interface))|85 mA|DC 9V|2.1mm center negative|Buffered|
 |[Cry Baby Mini Wah (CBM95)](https://www.jimdunlop.com/content/manuals/CBM95.pdf)|Wah|Wishlist ([$100](https://www.sweetwater.com/store/detail/CrybabyMini--dunlop-cbm95-cry-baby-mini-wah-pedal))|900 µA|?|?|True Bypass|
 |[Big Muff Nano](https://www.ehx.com/products/nano-big-muff-pi/instructions)|Fuzz|Wishlist ([$73](https://www.sweetwater.com/store/detail/NanoBigMuff--electro-harmonix-nano-big-muff-pi-distortion-fuzz-overdrive-pedal))|25 mA|DC 9V|standard center negative|True Bypass|
-|[BOSS VB-2w]()|Vibrato|Wishlist|?|?|?|?|
+|[BOSS VB-2w](https://www.boss.info/us/products/vb-2w/specifications/)|Vibrato|Wishlist ([$230](https://www.sweetwater.com/store/detail/VB2W--boss-vb-2w-waza-craft-vibrato-pedal))|35 mA|DC 9V|?|Buffered|
 |[BOSS DM-2w](https://www.boss.info/us/products/dm-2w/specifications/)|Delay|Wishlist ([$150](https://www.sweetwater.com/store/detail/DM2W--boss-dm-2w-waza-craft-delay-pedal))|35 mA|DC 9V|?|Buffered|
 |[BOSS CE-2w](https://www.boss.info/us/products/ce-2w/specifications/)|Chorus|Wishlist ([$200](https://www.sweetwater.com/store/detail/CE2W--boss-ce-2w-waza-craft-chorus-pedal)|25 mA|DC 9V|?|Buffered|
 |[BOSS CS-3](https://www.boss.info/us/products/cs-3/specifications/)|Compressor|Wishlist ([$100](https://www.sweetwater.com/store/detail/CS3--boss-cs-3-compression-sustainer-pedal))|20 mA|DC 9V|?|Buffered|
