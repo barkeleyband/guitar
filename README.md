@@ -15,7 +15,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 # Gear
 
 - [Fender Player Stratocaster HSS Plus Top Maple Fingerboard Limited-Edition Electric Guitar (Blue Burst)](https://www.guitarcenter.com/Fender/Player-Stratocaster-HSS-Plus-Top-Maple-Fingerboard-Limited-Edition-Electric-Guitar-Blue-Burst-1500000257004.gc)
-- [BOSS TU-3 Chromatic Tuner](https://www.boss.info/us/products/tu-3/)
+- [Pedalboard](https://github.com/bfroggio/guitar/blob/main/pedalboard.md)
 - [Blackstar Fly 3 Mini Guitar Amp](https://www.blackstaramps.com/uk/products/fly-3)
 
 # Guitar Song Collection ([Spotify playlist](https://open.spotify.com/playlist/720tO9EFSrf8DqXsNrNGbt?si=36G3s4OWTn-qkDMgn4Cjow))
