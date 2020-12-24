@@ -7,10 +7,11 @@
 |[BOSS DS-1](https://www.boss.info/us/products/ds-1/specifications/)|Distortion|Wishlist|20 mA|?|?|Buffered|
 |[OMEC Teleport](https://orangeamps.com/omec-teleport-manual/)|Audio Interface|Wishlist ([$139](https://www.sweetwater.com/store/detail/Teleport--orange-omec-teleport-guitar-audio-interface))|85 mA|DC 9V|2.1mm center negative|Buffered|
 |[Cry Baby Mini Wah (CBM95)](https://www.jimdunlop.com/content/manuals/CBM95.pdf)|Wah|Wishlist ([$100](https://www.sweetwater.com/store/detail/CrybabyMini--dunlop-cbm95-cry-baby-mini-wah-pedal))|900 µA|?|?|True Bypass|
-|[Big Muff Nano]()|Fuzz|Wishlist ([$73](https://www.sweetwater.com/store/detail/NanoBigMuff--electro-harmonix-nano-big-muff-pi-distortion-fuzz-overdrive-pedal))|?|?|?|?|
+|[Big Muff Nano](https://www.ehx.com/products/nano-big-muff-pi/instructions)|Fuzz|Wishlist ([$73](https://www.sweetwater.com/store/detail/NanoBigMuff--electro-harmonix-nano-big-muff-pi-distortion-fuzz-overdrive-pedal))|25 mA|DC 9V|standard center negative|True Bypass|
 |[BOSS VB-2w]()|Vibrato|Wishlist|?|?|?|?|
 |[BOSS DM-2w]()|?|Wishlist|?|?|?|?|
-|[BOSS CS-3]()|?|Wishlist|?|?|?|?|
+|[BOSS CE-2w]()|?|Wishlist|?|?|?|?|
+|[BOSS CS-3]()|Compressor|Wishlist|?|?|?|?|
 
 ## Gear
 
