@@ -10,8 +10,8 @@
 |[Big Muff Nano](https://www.ehx.com/products/nano-big-muff-pi/instructions)|Fuzz|Wishlist ([$73](https://www.sweetwater.com/store/detail/NanoBigMuff--electro-harmonix-nano-big-muff-pi-distortion-fuzz-overdrive-pedal))|25 mA|DC 9V|standard center negative|True Bypass|
 |[BOSS VB-2w]()|Vibrato|Wishlist|?|?|?|?|
 |[BOSS DM-2w](https://www.boss.info/us/products/dm-2w/specifications/)|Delay|Wishlist ([$150](https://www.sweetwater.com/store/detail/DM2W--boss-dm-2w-waza-craft-delay-pedal))|35 mA|DC 9V|?|Buffered|
-|[BOSS CE-2w]()|?|Wishlist|?|?|?|?|
-|[BOSS CS-3]()|Compressor|Wishlist|?|?|?|?|
+|[BOSS CE-2w](https://www.boss.info/us/products/ce-2w/specifications/)|Chorus|Wishlist ([$200](https://www.sweetwater.com/store/detail/CE2W--boss-ce-2w-waza-craft-chorus-pedal)|25 mA|DC 9V|?|Buffered|
+|[BOSS CS-3]()|Compressor|Wishlist|?|?|?|Buffered|
 
 ## Gear
 
