@@ -13,6 +13,11 @@
 |[BOSS CE-2w](https://www.boss.info/us/products/ce-2w/specifications/)|Chorus|Wishlist ([$200](https://www.sweetwater.com/store/detail/CE2W--boss-ce-2w-waza-craft-chorus-pedal))|25 mA|DC 9V|?|Buffered|
 |[BOSS CS-3](https://www.boss.info/us/products/cs-3/specifications/)|Compressor|Wishlist ([$100](https://www.sweetwater.com/store/detail/CS3--boss-cs-3-compression-sustainer-pedal))|20 mA|DC 9V|?|Buffered|
 
+|Item|Type|Status|
+|---|---|---|
+|[Pedaltrain Classic Jr](https://pedaltrain.com/products/pt-clj-sc)|Pedalboard|Wishlist ([$120](https://www.sweetwater.com/store/detail/PTCLJSC--pedaltrain-classic-jr-sc-18-inch-by-12.5-inch-pedalboard-with-soft-case)|
+|[1 SPOT Pro CS6](https://truetone.com/cs6/)|Power supply|Wishlist ([$130](https://www.sweetwater.com/store/detail/1SpotProCS6--truetone-1-spot-pro-cs6-6-output-low-profile-isolated-guitar-pedal-power-supply))||
+
 ## Gear
 
 > This is gear that I have to get out every time I practice. It'd be nice to store it in/with the pedalboard to make setup for playing faster.
