@@ -11,7 +11,7 @@
 |[BOSS VB-2w]()|Vibrato|Wishlist|?|?|?|?|
 |[BOSS DM-2w](https://www.boss.info/us/products/dm-2w/specifications/)|Delay|Wishlist ([$150](https://www.sweetwater.com/store/detail/DM2W--boss-dm-2w-waza-craft-delay-pedal))|35 mA|DC 9V|?|Buffered|
 |[BOSS CE-2w](https://www.boss.info/us/products/ce-2w/specifications/)|Chorus|Wishlist ([$200](https://www.sweetwater.com/store/detail/CE2W--boss-ce-2w-waza-craft-chorus-pedal)|25 mA|DC 9V|?|Buffered|
-|[BOSS CS-3]()|Compressor|Wishlist|?|?|?|Buffered|
+|[BOSS CS-3](https://www.boss.info/us/products/cs-3/specifications/)|Compressor|Wishlist ([$100](https://www.sweetwater.com/store/detail/CS3--boss-cs-3-compression-sustainer-pedal))|20 mA|DC 9V|?|Buffered|
 
 ## Gear
 
