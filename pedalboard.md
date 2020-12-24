@@ -15,7 +15,7 @@
 
 |Item|Type|Status|
 |---|---|---|
-|[Pedaltrain Classic Jr](https://pedaltrain.com/products/pt-clj-sc)|Pedalboard|Wishlist ([$120](https://www.sweetwater.com/store/detail/PTCLJSC--pedaltrain-classic-jr-sc-18-inch-by-12.5-inch-pedalboard-with-soft-case)|
+|[Pedaltrain Classic Jr](https://pedaltrain.com/products/pt-clj-sc)|Pedalboard|Wishlist ([$120](https://www.sweetwater.com/store/detail/PTCLJSC--pedaltrain-classic-jr-sc-18-inch-by-12.5-inch-pedalboard-with-soft-case))|
 |[1 SPOT Pro CS6](https://truetone.com/cs6/)|Power supply|Wishlist ([$130](https://www.sweetwater.com/store/detail/1SpotProCS6--truetone-1-spot-pro-cs6-6-output-low-profile-isolated-guitar-pedal-power-supply))||
 
 ## Gear
