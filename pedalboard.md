@@ -20,7 +20,7 @@
 ## Gear I'm Researching
 
 |Item|Price|Notes|
-|---|---|
+|---|---|---|
 |[Electro-Harmonix Memory Boy](https://www.sweetwater.com/store/detail/MemoryBoy--electro-harmonix-memory-boy-analog-delay-pedal-with-chorus-vibrato)|$122|Could potentially replace individual delay, vibrato, and chorus pedals listed above as long as I like the combination of effects it offers|
 |[JOYO R-14 Atmospheres- Reverb Pedal Multi Pedal Effect](https://www.amazon.com/dp/B07XP3KJ13/ref=cm_sw_r_oth_api_glc_fabc_skb6FbEB9XTJQ)|$90||
 |[MOOER Radar Guitar Speaker Simulator](https://www.amazon.com/MOOER-Radar-Guitar-Speaker-Simulator/dp/B07B27KN2W)|$150|Emulates various amps and mics|
