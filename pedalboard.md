@@ -22,12 +22,12 @@
 |Item|Price|Notes|
 |---|---|---|
 |[Electro-Harmonix Memory Boy](https://www.sweetwater.com/store/detail/MemoryBoy--electro-harmonix-memory-boy-analog-delay-pedal-with-chorus-vibrato)|$122|Could potentially replace individual delay, vibrato, and chorus pedals listed above as long as I like the combination of effects it offers|
-|[JOYO R-14 Atmospheres- Reverb Pedal Multi Pedal Effect](https://www.amazon.com/dp/B07XP3KJ13/ref=cm_sw_r_oth_api_glc_fabc_skb6FbEB9XTJQ)|$90||
+|[JOYO R-14 Atmospheres Reverb Pedal Multi Pedal Effect](https://www.amazon.com/dp/B07XP3KJ13/ref=cm_sw_r_oth_api_glc_fabc_skb6FbEB9XTJQ)|$90||
 |[MOOER Radar Guitar Speaker Simulator](https://www.amazon.com/MOOER-Radar-Guitar-Speaker-Simulator/dp/B07B27KN2W)|$150|Emulates various amps and mics|
 |[TC Electronic Hall Of Fame 2 Mini Reverb Pedal](https://www.sweetwater.com/store/detail/HOF2Mini--tc-electronic-hall-of-fame-2-mini-reverb-pedal)|$100|Programmable via the guitar pickups with an app on your phone|
-|[Julianna Deluxe Chorus/Vibrato](https://www.sweetwater.com/store/detail/Julianna--walrus-audio-julianna-stereo-analog-chorus-vibrato-pedal)|$250||
 |[iRig HD 2 guitar interface](https://www.sweetwater.com/store/detail/iRigHD2--ik-multimedia-irig-hd-2-guitar-interface-for-iphone-ipad-mac-and-pc)|$100|Potentially a better alternative to the OMEC Teleport listed above|
 |[JHS Clover](https://www.jhspedals.info/clover)|$200|Preamp/EQ in a pedal|
 |[Earthquaker Dispatch reverb/delay](https://www.sweetwater.com/store/detail/DispatchMV3--earthquaker-devices-dispatch-master-v3-delay-and-reverb-pedal)|$200|Delay and reverb in one pedal (could combine two pedals listed above)|
-|[Walrus Audio Julia v2 Santa Fe Series chorus/vibrato](https://www.sweetwater.com/store/detail/JuliaChorusV2SF--walrus-audio-julia-v2-analog-chorus-vibrato-pedal-santa-fe-series)|$200|Not sure how this one and the Julianna are different|
-|[Voodoo Lab Pedal Power 2 Plus Isolated Power Supply](https://www.sweetwater.com/store/detail/PedalPwr2Pls--voodoo-lab-pedal-power-2-plus-8-output-isolated-guitar-pedal-power-supply)|$180|8 isolated outputs some with 9/12v and voltage sag)|
+|[Julianna Deluxe chorus/vibrato](https://www.sweetwater.com/store/detail/Julianna--walrus-audio-julianna-stereo-analog-chorus-vibrato-pedal)|$250||
+|[Julia v2 Santa Fe Series chorus/vibrato](https://www.sweetwater.com/store/detail/JuliaChorusV2SF--walrus-audio-julia-v2-analog-chorus-vibrato-pedal-santa-fe-series)|$200|Not sure how this one and the Julianna are different|
+|[Voodoo Lab Pedal Power 2 Plus Isolated Power Supply](https://www.sweetwater.com/store/detail/PedalPwr2Pls--voodoo-lab-pedal-power-2-plus-8-output-isolated-guitar-pedal-power-supply)|$180|8 isolated outputs some with 9/12v and voltage sag, 1100mA output. More expensive than the CS6 listed above (and maybe a little bigger physically) but potentially has the option to plug another power supply into the back of it?|
