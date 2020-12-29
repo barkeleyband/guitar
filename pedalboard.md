@@ -27,7 +27,7 @@
 |[TC Electronic Hall Of Fame 2 Mini Reverb Pedal](https://www.sweetwater.com/store/detail/HOF2Mini--tc-electronic-hall-of-fame-2-mini-reverb-pedal)|$100|Programmable via the guitar pickups with an app on your phone|
 |[Julianna Deluxe Chorus/Vibrato](https://www.sweetwater.com/store/detail/Julianna--walrus-audio-julianna-stereo-analog-chorus-vibrato-pedal)|$250||
 |[iRig HD 2 guitar interface](https://www.sweetwater.com/store/detail/iRigHD2--ik-multimedia-irig-hd-2-guitar-interface-for-iphone-ipad-mac-and-pc)|$100|Potentially a better alternative to the OMEC Teleport listed above|
-|[JHS Clover](https://www.jhspedals.info/clover)|||
-|[Earthquaker Dispatch reverb/delay](https://www.sweetwater.com/store/detail/DispatchMV3--earthquaker-devices-dispatch-master-v3-delay-and-reverb-pedal)|||
-|[Walrus Audio Julia v2 Santa Fe Series chorus/vibrato](https://www.sweetwater.com/store/detail/JuliaChorusV2SF--walrus-audio-julia-v2-analog-chorus-vibrato-pedal-santa-fe-series)|||
+|[JHS Clover](https://www.jhspedals.info/clover)|$200|Preamp/EQ in a pedal|
+|[Earthquaker Dispatch reverb/delay](https://www.sweetwater.com/store/detail/DispatchMV3--earthquaker-devices-dispatch-master-v3-delay-and-reverb-pedal)|$200|Delay and reverb in one pedal (could combine two pedals listed above)|
+|[Walrus Audio Julia v2 Santa Fe Series chorus/vibrato](https://www.sweetwater.com/store/detail/JuliaChorusV2SF--walrus-audio-julia-v2-analog-chorus-vibrato-pedal-santa-fe-series)|$200|Not sure how this one and the Julianna are different|
 |[Voodoo Lab Pedal Power 2 Plus Isolated Power Supply](https://www.sweetwater.com/store/detail/PedalPwr2Pls--voodoo-lab-pedal-power-2-plus-8-output-isolated-guitar-pedal-power-supply)|$180|8 isolated outputs some with 9/12v and voltage sag)|
