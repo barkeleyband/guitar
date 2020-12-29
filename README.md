@@ -51,6 +51,8 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- Home Depot theme song
+- [Gargoyles cartoon theme song](https://www.youtube.com/watch?v=5ZzAyYhZtUs)
 - [Hallucinogenics](https://open.spotify.com/track/6bLU8e0LGyztE9iD5DWBQ1) by Matt Maeson ([tab](https://www.ultimate-guitar.com/search.php?title=Matt+Maeson+Hallucinogenics))
 - [Scars](https://open.spotify.com/track/1UREw2MCfU0xwBzCAjxlUD) by Papa Roach ([tab](https://www.ultimate-guitar.com/search.php?title=Papa+Roach+Scars))
 - [Last Resort](https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky) by Papa Roach ([tab](https://www.ultimate-guitar.com/search.php?title=Papa+Roach+Last+Resort))
