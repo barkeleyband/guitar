@@ -52,6 +52,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Jealous of Us](https://open.spotify.com/track/7mC8gThllz1Ayvo33MgHOX) by Reno &amp; Rome ([tab](https://www.ultimate-guitar.com/search.php?title=Reno+&amp;+Rome+Jealous+of+Us))
 - Home Depot theme song
 - [Gargoyles cartoon theme song](https://www.youtube.com/watch?v=5ZzAyYhZtUs)
 - [Hallucinogenics](https://open.spotify.com/track/6bLU8e0LGyztE9iD5DWBQ1) by Matt Maeson ([tab](https://www.ultimate-guitar.com/search.php?title=Matt+Maeson+Hallucinogenics))
