@@ -3,7 +3,7 @@
 |Pedal|Type|Status|Current Draw|Voltage|Connection|Bypass Type|
 |---|---|---|---|---|---|---|
 |[BOSS TU-3](https://www.boss.info/us/products/tu-3/specifications/)|Tuner|Owned|20 mA|DC 9V|?|Buffered|
-|[BOSS RC-5](https://www.boss.info/us/products/rc-5/specifications/)|Looper|Owned|170 mA|DC 9V|?|Buffered|
+|[BOSS RC-5](https://www.boss.info/us/products/rc-5/specifications/) ([manual](https://www.kraftmusic.com/media/ownersmanual/Boss_RC-5_Reference_Manual.pdf))|Looper|Owned|170 mA|DC 9V|?|Buffered|
 |[BOSS DS-1](https://www.boss.info/us/products/ds-1/specifications/)|Distortion|Owned|20 mA|DC 9V|?|Buffered|
 |[OMEC Teleport](https://orangeamps.com/omec-teleport-manual/)|Audio Interface|Wishlist ([$140](https://www.sweetwater.com/store/detail/Teleport--orange-omec-teleport-guitar-audio-interface))|85 mA|DC 9V|2.1mm center negative|Buffered|
 |[Cry Baby Mini Wah (CBM95)](https://www.jimdunlop.com/content/manuals/CBM95.pdf)|Wah|Wishlist ([$100](https://www.sweetwater.com/store/detail/CrybabyMini--dunlop-cbm95-cry-baby-mini-wah-pedal))|900 µA|DC 9V|?|True Bypass|
