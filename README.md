@@ -11,6 +11,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 - [Essential Guitar Scales](https://www.fender.com/articles/how-to/5-essential-guitar-scales-for-beginners)
 - [Guitar Theory for Dummies Cheat Sheet](https://www.dummies.com/art-center/music/guitar/guitar-theory-for-dummies-cheat-sheet/)
 - [Drum Beat Rhythm Challenge](https://www.patreon.com/posts/drumbeat-5-fun-35743618)
+- [Getting rid of guitar noise](https://guitargearfinder.com/guides/faq-getting-rid-of-guitar-hum-buzz-and-noise-issues/)
 
 # Gear
 
