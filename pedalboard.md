@@ -21,11 +21,10 @@
 
 |Item|Type|Price|Notes|
 |---|---|---|---|
-|[Electro-Harmonix Memory Boy](https://www.sweetwater.com/store/detail/MemoryBoy--electro-harmonix-memory-boy-analog-delay-pedal-with-chorus-vibrato)|Pedal|$122|Could potentially replace individual delay, vibrato, and chorus pedals listed above as long as I like the combination of effects it offers|
-|[MOOER Radar Guitar Speaker Simulator](https://www.amazon.com/MOOER-Radar-Guitar-Speaker-Simulator/dp/B07B27KN2W)|Pedal|$150|Emulates various amps and mics|
-|[JHS Clover](https://www.jhspedals.info/clover)|Pedal|$200|Preamp/EQ in a pedal|
 |[Voodoo Lab Pedal Power 2 Plus Isolated Power Supply](https://www.sweetwater.com/store/detail/PedalPwr2Pls--voodoo-lab-pedal-power-2-plus-8-output-isolated-guitar-pedal-power-supply)|Power supply|$180|8 isolated outputs some with 9/12v and voltage sag, 1100mA output. More expensive than the CS6 listed above (and maybe a little bigger physically) but potentially has the option to plug another power supply into the back of it?|
 |[Alesis Sample Pad 4](https://www.sweetwater.com/store/detail/SAMPLEPAD4--alesis-samplepad-4-compact-percussion-pad)|Sample pad|$154|Would be really fun plugged into my looper pedal|
+|[MOOER Radar Guitar Speaker Simulator](https://www.amazon.com/MOOER-Radar-Guitar-Speaker-Simulator/dp/B07B27KN2W)|Pedal|$150|Emulates various amps and mics instead of using just the dry tone of the guitar/pedalboard. Would love to get eventually, but not for my first pedalboard.|
+|[JHS Clover](https://www.jhspedals.info/clover)|Pedal|$200|Preamp/EQ in a pedal. Might be good to get something like this eventually, but only after I'm comfortable enough with guitar playing that it would actually make a difference for my tone.|
 
 ## Notes
 
