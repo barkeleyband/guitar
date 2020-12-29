@@ -1,4 +1,4 @@
-## Pedals
+## Pedalboard Gear
 
 |Pedal|Type|Status|Current Draw|Voltage|Connection|Bypass Type|
 |---|---|---|---|---|---|---|
@@ -17,24 +17,11 @@
 |[Pedaltrain Classic Jr](https://pedaltrain.com/products/pt-clj-sc)|Pedalboard|Wishlist ([$120](https://www.sweetwater.com/store/detail/PTCLJSC--pedaltrain-classic-jr-sc-18-inch-by-12.5-inch-pedalboard-with-soft-case))|
 |[1 SPOT Pro CS6](https://truetone.com/cs6/)|Power supply|Wishlist ([$130](https://www.sweetwater.com/store/detail/1SpotProCS6--truetone-1-spot-pro-cs6-6-output-low-profile-isolated-guitar-pedal-power-supply))||
 
-## Gear
+## Gear I'm Researching
 
-> This is gear that I have to get out every time I practice. It'd be nice to store it in/with the pedalboard to make setup for playing faster.
-
-### Bigger
-
-- Amp
-
-### Smaller
-
-> Ideally, I'd like to store these with the pedalboard
-
-- Amp instrument cable
-- Amp power supply
-- Headphones/monitors
-- Headphone extension cable (10 ft)
-- Guitar to pedalboard cable (10 ft)
-- Pedalboard power supply
-- Picks
-- USB cable for RC-5/on-pedalboard audio interface
-- iPad USB adapter
+- [Electro-Harmonix Memory Boy](https://www.sweetwater.com/store/detail/MemoryBoy--electro-harmonix-memory-boy-analog-delay-pedal-with-chorus-vibrato)
+- [JOYO R-14 Atmospheres- Reverb Pedal Multi Pedal Effect](https://www.amazon.com/dp/B07XP3KJ13/ref=cm_sw_r_oth_api_glc_fabc_skb6FbEB9XTJQ)
+- [MOOER Radar Guitar Speaker Simulator](https://www.amazon.com/MOOER-Radar-Guitar-Speaker-Simulator/dp/B07B27KN2W)
+- [TC Electronic Hall Of Fame 2 Mini Reverb Pedal](https://www.sweetwater.com/store/detail/HOF2Mini--tc-electronic-hall-of-fame-2-mini-reverb-pedal)
+- [Julianna Deluxe Chorus/Vibrato](https://www.walrusaudio.com/collections/modulation-octave/products/julianna-deluxe-chorus-vibrato?variant=32507754741806)
+- [iRig HD 2 guitar interface](https://www.sweetwater.com/store/detail/iRigHD2--ik-multimedia-irig-hd-2-guitar-interface-for-iphone-ipad-mac-and-pc)
