@@ -9,7 +9,6 @@
 |[Earthquaker Dispatch](https://www.earthquakerdevices.com/dispatch-master)|Reverb/Delay|Wishlist ([$200](https://www.sweetwater.com/store/detail/DispatchMV3--earthquaker-devices-dispatch-master-v3-delay-and-reverb-pedal))|?|?|?|?|
 |[Big Muff Nano](https://www.ehx.com/products/nano-big-muff-pi/instructions)|Fuzz|Wishlist ([$73](https://www.sweetwater.com/store/detail/NanoBigMuff--electro-harmonix-nano-big-muff-pi-distortion-fuzz-overdrive-pedal))|25 mA|DC 9V|standard center negative|True Bypass|
 |[JHS Emperor V2](https://www.jhspedals.info/emperor-v2)|Chorus/Vibrato|Wishlist ([$200](https://www.sweetwater.com/store/detail/EmperorV2--jhs-emperor-v2-chorus-vibrato-pedal-with-tap-tempo))|57 mA|DC 9V|?|Buffered/True Bypass|
-|[BOSS CS-3](https://www.boss.info/us/products/cs-3/specifications/)|Compressor|Wishlist ([$100](https://www.sweetwater.com/store/detail/CS3--boss-cs-3-compression-sustainer-pedal))|20 mA|DC 9V|?|Buffered|
 
 |Item|Type|Status|
 |---|---|---|
@@ -25,6 +24,7 @@
 |[Alesis Sample Pad 4](https://www.sweetwater.com/store/detail/SAMPLEPAD4--alesis-samplepad-4-compact-percussion-pad)|Sample pad|$154|Would be really fun plugged into my looper pedal|
 |[MOOER Radar Guitar Speaker Simulator](https://www.amazon.com/MOOER-Radar-Guitar-Speaker-Simulator/dp/B07B27KN2W)|Pedal|$150|Emulates various amps and mics instead of using just the dry tone of the guitar/pedalboard. Would love to get eventually, but not for my first pedalboard.|
 |[JHS Clover](https://www.jhspedals.info/clover)|Pedal|$200|Preamp/EQ in a pedal. Might be good to get something like this eventually, but only after I'm comfortable enough with guitar playing that it would actually make a difference for my tone.|
+|[BOSS CS-3](https://www.boss.info/us/products/cs-3/specifications/)|Compressor|[$100](https://www.sweetwater.com/store/detail/CS3--boss-cs-3-compression-sustainer-pedal)|Will be good to have eventually, but not while I'm still learning. I don't want to get in the habit of relying on a pedal to keep the volume of my strumming consistent.|
 
 ## Notes
 
