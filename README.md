@@ -211,6 +211,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Bass Songs Backlog
 
+- [Jealous of Us](https://open.spotify.com/track/7mC8gThllz1Ayvo33MgHOX) by Reno &amp; Rome ([tab](https://www.ultimate-guitar.com/search.php?title=Reno+&amp;+Rome+Jealous+of+Us))
 - [The Thrill](https://open.spotify.com/track/7y04ujW6SdgOFHtHvqGkBB) by Yam Haus ([tab](https://www.ultimate-guitar.com/search.php?title=Yam+Haus+The+Thrill))
 - [half alive](https://open.spotify.com/track/3Aua1bpEgSQvAOKgwUsS5g) by blackbear ([tab](https://www.ultimate-guitar.com/search.php?title=blackbear+half+alive))
 - [still feel.](https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5) by half•alive ([tab](https://www.ultimate-guitar.com/search.php?title=half•alive+still+feel.))
