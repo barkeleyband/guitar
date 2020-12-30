@@ -5,7 +5,7 @@
 |[BOSS TU-3](https://www.boss.info/us/products/tu-3/specifications/)|Tuner|Owned|20 mA|DC 9V|standard center negative|Buffered|
 |[BOSS RC-5](https://www.boss.info/us/products/rc-5/specifications/) ([manual](https://www.kraftmusic.com/media/ownersmanual/Boss_RC-5_Reference_Manual.pdf))|Looper|Owned|170 mA|DC 9V|standard center negative|Buffered|
 |[BOSS DS-1](https://www.boss.info/us/products/ds-1/specifications/)|Distortion|Owned|20 mA|DC 9V|standard center negative|Buffered|
-|[Earthquaker Dispatch](https://www.earthquakerdevices.com/dispatch-master)|Reverb/Delay|Wishlist ([$200](https://www.sweetwater.com/store/detail/DispatchMV3--earthquaker-devices-dispatch-master-v3-delay-and-reverb-pedal))|78 mA|DC 9 V|standard center negative|?|
+|[Earthquaker Dispatch](https://www.earthquakerdevices.com/dispatch-master)|Reverb/Delay|Wishlist ([$200](https://www.sweetwater.com/store/detail/DispatchMV3--earthquaker-devices-dispatch-master-v3-delay-and-reverb-pedal))|78 mA|DC 9 V|standard center negative|True Bypass|
 |[Big Muff Nano](https://www.ehx.com/products/nano-big-muff-pi/instructions)|Fuzz|Wishlist ([$73](https://www.sweetwater.com/store/detail/NanoBigMuff--electro-harmonix-nano-big-muff-pi-distortion-fuzz-overdrive-pedal))|25 mA|DC 9V|standard center negative|True Bypass|
 |[JHS Emperor V2](https://www.jhspedals.info/emperor-v2)|Chorus/Vibrato|Wishlist ([$200](https://www.sweetwater.com/store/detail/EmperorV2--jhs-emperor-v2-chorus-vibrato-pedal-with-tap-tempo))|57 mA|DC 9V|?|Buffered/True Bypass|
 
