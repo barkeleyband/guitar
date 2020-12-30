@@ -5,7 +5,6 @@
 |[BOSS TU-3](https://www.boss.info/us/products/tu-3/specifications/)|Tuner|Owned|20 mA|DC 9V|?|Buffered|
 |[BOSS RC-5](https://www.boss.info/us/products/rc-5/specifications/) ([manual](https://www.kraftmusic.com/media/ownersmanual/Boss_RC-5_Reference_Manual.pdf))|Looper|Owned|170 mA|DC 9V|?|Buffered|
 |[BOSS DS-1](https://www.boss.info/us/products/ds-1/specifications/)|Distortion|Owned|20 mA|DC 9V|?|Buffered|
-|[Cry Baby Mini Wah (CBM95)](https://www.jimdunlop.com/content/manuals/CBM95.pdf)|Wah|Wishlist ([$100](https://www.sweetwater.com/store/detail/CrybabyMini--dunlop-cbm95-cry-baby-mini-wah-pedal))|900 µA|DC 9V|?|True Bypass|
 |[Earthquaker Dispatch](https://www.earthquakerdevices.com/dispatch-master)|Reverb/Delay|Wishlist ([$200](https://www.sweetwater.com/store/detail/DispatchMV3--earthquaker-devices-dispatch-master-v3-delay-and-reverb-pedal))|78 mA|?|?|?|
 |[Big Muff Nano](https://www.ehx.com/products/nano-big-muff-pi/instructions)|Fuzz|Wishlist ([$73](https://www.sweetwater.com/store/detail/NanoBigMuff--electro-harmonix-nano-big-muff-pi-distortion-fuzz-overdrive-pedal))|25 mA|DC 9V|standard center negative|True Bypass|
 |[JHS Emperor V2](https://www.jhspedals.info/emperor-v2)|Chorus/Vibrato|Wishlist ([$200](https://www.sweetwater.com/store/detail/EmperorV2--jhs-emperor-v2-chorus-vibrato-pedal-with-tap-tempo))|57 mA|DC 9V|?|Buffered/True Bypass|
@@ -26,6 +25,7 @@
 |[JHS Clover](https://www.jhspedals.info/clover)|Pedal|$200|Preamp/EQ in a pedal. Might be good to get something like this eventually, but only after I'm comfortable enough with guitar playing that it would actually make a difference for my tone.|
 |[BOSS CS-3](https://www.boss.info/us/products/cs-3/specifications/)|Compressor|[$100](https://www.sweetwater.com/store/detail/CS3--boss-cs-3-compression-sustainer-pedal)|Will be good to have eventually, but not while I'm still learning. I don't want to get in the habit of relying on a pedal to keep the volume of my strumming consistent.|
 |[BOSS GE-7](https://www.boss.info/us/products/ge-7/specifications/)|Pedal|[$120](https://www.sweetwater.com/store/detail/GE7--boss-ge-7-7-band-eq-pedal)|Would be helpful to boost volumes and tweak sounds (not sure if near the beginning or end of chain, probably beginning?)|
+|[Cry Baby Mini Wah (CBM95)](https://www.jimdunlop.com/content/manuals/CBM95.pdf)|Wah|[$100](https://www.sweetwater.com/store/detail/CrybabyMini--dunlop-cbm95-cry-baby-mini-wah-pedal)|Has a small footprint but I wonder if it would be difficult to work with if I have another pedal above it on my board.|
 
 ## Notes
 
