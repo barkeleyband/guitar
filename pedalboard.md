@@ -25,6 +25,7 @@
 |[MOOER Radar Guitar Speaker Simulator](https://www.amazon.com/MOOER-Radar-Guitar-Speaker-Simulator/dp/B07B27KN2W)|Pedal|$150|Emulates various amps and mics instead of using just the dry tone of the guitar/pedalboard. Would love to get eventually, but not for my first pedalboard.|
 |[JHS Clover](https://www.jhspedals.info/clover)|Pedal|$200|Preamp/EQ in a pedal. Might be good to get something like this eventually, but only after I'm comfortable enough with guitar playing that it would actually make a difference for my tone.|
 |[BOSS CS-3](https://www.boss.info/us/products/cs-3/specifications/)|Compressor|[$100](https://www.sweetwater.com/store/detail/CS3--boss-cs-3-compression-sustainer-pedal)|Will be good to have eventually, but not while I'm still learning. I don't want to get in the habit of relying on a pedal to keep the volume of my strumming consistent.|
+|[BOSS GE-7](https://www.boss.info/us/products/ge-7/specifications/)|Pedal|[$120](https://www.sweetwater.com/store/detail/GE7--boss-ge-7-7-band-eq-pedal)|Would be helpful to boost volumes and tweak sounds (not sure if near the beginning or end of chain, probably beginning?)|
 
 ## Notes
 
