@@ -1,7 +1,7 @@
 ## Pedalboard Gear
 
 |Chain Position|Pedal|Type|Status|Current Draw|Voltage|Connection|Bypass Type|
-|---|---|---|---|---|---|---|---|
+|:-:|---|---|---|---|---|---|---|
 |1|[BOSS TU-3](https://www.boss.info/us/products/tu-3/specifications/)|Tuner|Owned|20 mA|DC 9V|Standard center negative|Buffered|
 |2|[BOSS DS-1](https://www.boss.info/us/products/ds-1/specifications/)|Distortion|Owned|20 mA|DC 9V|Standard center negative|Buffered|
 |3|[JHS Emperor V2](https://www.jhspedals.info/emperor-v2)|Chorus/Vibrato|Owned|57 mA|DC 9V|Standard center negative|Buffered/True bypass|
