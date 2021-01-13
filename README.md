@@ -53,6 +53,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) by Declan McKenna ([tab](https://www.ultimate-guitar.com/search.php?title=Declan+McKenna+Brazil))
 - [Jealous of Us](https://open.spotify.com/track/7mC8gThllz1Ayvo33MgHOX) by Reno &amp; Rome ([tab](https://www.ultimate-guitar.com/search.php?title=Reno+&amp;+Rome+Jealous+of+Us))
 - Home Depot theme song
 - [Gargoyles cartoon theme song](https://www.youtube.com/watch?v=5ZzAyYhZtUs)
