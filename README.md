@@ -53,6 +53,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [CITY OF ANGELS](https://open.spotify.com/track/6ap9lSRJ0iLriGLqoJ44cq) by 24kGoldn ([tab](https://www.ultimate-guitar.com/search.php?title=24kGoldn+CITY+OF+ANGELS))
 - [Scotty Doesn&#39;t Know](https://open.spotify.com/track/1LkoYGxmYpO6QSEvY5C0Zl) by Lustra ([tab](https://www.ultimate-guitar.com/search.php?title=Lustra+Scotty+Doesn&#39;t+Know))
 - [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) by Tame Impala ([tab](https://www.ultimate-guitar.com/search.php?title=Tame+Impala+The+Less+I+Know+The+Better))
 - [In My Head](https://open.spotify.com/track/2nr9WZdKntw9a5muEC3gOk) by Bedroom ([tab](https://www.ultimate-guitar.com/search.php?title=Bedroom+In+My+Head))
