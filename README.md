@@ -13,6 +13,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 - [Drum Beat Rhythm Challenge](https://www.patreon.com/posts/drumbeat-5-fun-35743618)
 - [Getting Rid of Guitar Noise](https://guitargearfinder.com/guides/faq-getting-rid-of-guitar-hum-buzz-and-noise-issues/)
 - [Fender Owner's Manual](https://www.fmicassets.com/Damroot/Original/10001/leg_gtr_2013_Fender_Electric_Guitars_Owners_Manual_(English).pdf)
+- [Stratocaster tremolo tips](https://www.earthquakerdevices.com/blog-posts/highs-and-tremo-lows?utm_campaign=later-linkinbio-earthquakerdev&utm_content=later-13558459&utm_medium=social&utm_source=instagram)
 
 # Gear
 
