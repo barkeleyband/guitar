@@ -25,6 +25,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 ## Guitar Songs I Know
 
 - Danny Phantom theme song ([tab](https://tabs.ultimate-guitar.com/tab/misc-cartoons/danny-phantom-theme-tabs-2732916))
+- [belong](https://open.spotify.com/track/33n1o7mzohXiCzS6Rr5q2E?si=UD_Ycm0jTXKBgCLh_tf3vg) by slenderbodies ([tab](https://www.ultimate-guitar.com/search.php?title=slenderbodies+belong), [more detailed tab](https://tabs.ultimate-guitar.com/tab/slenderbodies/belong-chords-2872106), and [tutorial from the band](https://m.youtube.com/watch?v=Z6pWYw486ak))
 
 ## Guitar Songs I'm Learning
 
@@ -33,7 +34,6 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 - [Cough Syrup](https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q?si=n4eSPleuSbW7Ke3kSiqelg) by Young the Giant ([tab](https://tabs.ultimate-guitar.com/tab/young-the-giant/cough-syrup-official-2574357))
 - [Talk Too Much](https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq?si=30gGNzC6RM6QyE2y3SHDfw) by COIN ([tab](https://tabs.ultimate-guitar.com/tab/coin/talk-too-much-official-2573376))
 - [F2020](https://open.spotify.com/track/7opTGnWVJcm1e5mWWOldpg?si=F2XBb4C7QV-pT_jYZmcyOQ) by Avenue Beat ([tab](https://tabs.ultimate-guitar.com/tab/avenue-beat/f2020-tabs-3248300))
-- [belong](https://open.spotify.com/track/33n1o7mzohXiCzS6Rr5q2E?si=UD_Ycm0jTXKBgCLh_tf3vg) by slenderbodies ([tab](https://www.ultimate-guitar.com/search.php?title=slenderbodies+belong) and [tutorial from the band](https://m.youtube.com/watch?v=Z6pWYw486ak))
 - [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY?si=up8rGBAjTO-4ZiYHGXP58Q) by Harry Styles ([tab](https://tabs.ultimate-guitar.com/tab/harry-styles/watermelon-sugar-chords-2895911))
 - [IDGAF](https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr?si=DCq9gHhmRCOso-UfztDWFA) by Dua Lipa ([tab](https://tabs.ultimate-guitar.com/tab/dua-lipa/idgaf-official-2396253))
 - [Misirlou](https://open.spotify.com/track/1p791U7Bx5PmvCwucN4PQN?si=GZvYWNVBR-KKbJCHgjm2Jg) by Dick Dale and his Del-Tones ([tab](https://tabs.ultimate-guitar.com/tab/dick-dale/misirlou-guitar-pro-217252))
