@@ -54,6 +54,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Junk Of The Heart (Happy)](https://open.spotify.com/track/2jZgzSxNSg1hTCq0ewWHGJ) by The Kooks ([tab](https://www.ultimate-guitar.com/search.php?title=The+Kooks+Junk+Of+The+Heart+(Happy)))
 - [I Found A Way](https://open.spotify.com/track/1rS3J4u1G8f6hbmTosa8Nf) by Drake Bell ([tab](https://www.ultimate-guitar.com/search.php?title=Drake+Bell+I+Found+A+Way))
 - [My Own Worst Enemy](https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z) by Lit ([tab](https://www.ultimate-guitar.com/search.php?title=Lit+My+Own+Worst+Enemy))
 - [La Grange](https://open.spotify.com/track/060SIy6PC30dMWw6wI6292) by ZZ Top ([tab](https://www.ultimate-guitar.com/search.php?title=ZZ+Top+La+Grange))
