@@ -54,6 +54,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [She Will Be Loved - Radio Mix](https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16) by Maroon 5 ([tab](https://www.ultimate-guitar.com/search.php?title=Maroon+5+She+Will+Be+Loved+-+Radio+Mix))
 - [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) by Miley Cyrus ([tab](https://www.ultimate-guitar.com/search.php?title=Miley+Cyrus+Party+In+The+U.S.A.))
 - [Junk Of The Heart (Happy)](https://open.spotify.com/track/2jZgzSxNSg1hTCq0ewWHGJ) by The Kooks ([tab](https://www.ultimate-guitar.com/search.php?title=The+Kooks+Junk+Of+The+Heart+(Happy)))
 - [I Found A Way](https://open.spotify.com/track/1rS3J4u1G8f6hbmTosa8Nf) by Drake Bell ([tab](https://www.ultimate-guitar.com/search.php?title=Drake+Bell+I+Found+A+Way))
