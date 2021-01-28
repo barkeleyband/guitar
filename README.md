@@ -54,6 +54,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Do I Wanna Know?](https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst) by Arctic Monkeys ([tab](https://www.ultimate-guitar.com/search.php?title=Arctic+Monkeys+Do+I+Wanna+Know?))
 - [Jimmy Neutron Theme](https://open.spotify.com/track/7sDuvU5T8Hu3MtdmP2fBuO) by Bowling For Soup ([tab](https://www.ultimate-guitar.com/search.php?title=Bowling+For+Soup+Jimmy+Neutron+Theme))
 - [You&#39;re Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) by James Blunt ([tab](https://www.ultimate-guitar.com/search.php?title=James+Blunt+You&#39;re+Beautiful))
 - [She Will Be Loved - Radio Mix](https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16) by Maroon 5 ([tab](https://www.ultimate-guitar.com/search.php?title=Maroon+5+She+Will+Be+Loved+-+Radio+Mix))
