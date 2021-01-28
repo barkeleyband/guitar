@@ -54,6 +54,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) by Miley Cyrus ([tab](https://www.ultimate-guitar.com/search.php?title=Miley+Cyrus+Party+In+The+U.S.A.))
 - [Junk Of The Heart (Happy)](https://open.spotify.com/track/2jZgzSxNSg1hTCq0ewWHGJ) by The Kooks ([tab](https://www.ultimate-guitar.com/search.php?title=The+Kooks+Junk+Of+The+Heart+(Happy)))
 - [I Found A Way](https://open.spotify.com/track/1rS3J4u1G8f6hbmTosa8Nf) by Drake Bell ([tab](https://www.ultimate-guitar.com/search.php?title=Drake+Bell+I+Found+A+Way))
 - [My Own Worst Enemy](https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z) by Lit ([tab](https://www.ultimate-guitar.com/search.php?title=Lit+My+Own+Worst+Enemy))
