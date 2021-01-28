@@ -53,6 +53,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Guitar Songs Backlog
 
+- [La Grange](https://open.spotify.com/track/060SIy6PC30dMWw6wI6292) by ZZ Top ([tab](https://www.ultimate-guitar.com/search.php?title=ZZ+Top+La+Grange))
 - [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) by The Police ([tab](https://www.ultimate-guitar.com/search.php?title=The+Police+Every+Breath+You+Take))
 - [WITHOUT YOU](https://open.spotify.com/track/27OeeYzk6klgBh83TSvGMA) by The Kid LAROI ([tab](https://www.ultimate-guitar.com/search.php?title=The+Kid+LAROI+WITHOUT+YOU))
 - [CITY OF ANGELS](https://open.spotify.com/track/6ap9lSRJ0iLriGLqoJ44cq) by 24kGoldn ([tab](https://www.ultimate-guitar.com/search.php?title=24kGoldn+CITY+OF+ANGELS))
