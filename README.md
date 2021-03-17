@@ -230,6 +230,7 @@ A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar
 
 ## Bass Songs Backlog
 
+- [Maple Syrup](https://open.spotify.com/track/4MXE6VCvTsQitHWrAxj7Kg) by The Backseat Lovers ([tab](https://www.ultimate-guitar.com/search.php?title=The+Backseat+Lovers+Maple+Syrup))
 - [La Grange](https://open.spotify.com/track/060SIy6PC30dMWw6wI6292) by ZZ Top ([tab](https://www.ultimate-guitar.com/search.php?title=ZZ+Top+La+Grange))
 - [Jealous of Us](https://open.spotify.com/track/7mC8gThllz1Ayvo33MgHOX) by Reno &amp; Rome ([tab](https://www.ultimate-guitar.com/search.php?title=Reno+&amp;+Rome+Jealous+of+Us))
 - [The Thrill](https://open.spotify.com/track/7y04ujW6SdgOFHtHvqGkBB) by Yam Haus ([tab](https://www.ultimate-guitar.com/search.php?title=Yam+Haus+The+Thrill))
