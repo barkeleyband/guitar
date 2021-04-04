@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/MDyNeU3fIpVJPB8gyd/giphy.gif" width="200">
 </p>
 
-A place for [B-Froggio](https://bfrogg.io) to track his progress learning guitar and helpful resources he's found along the way.
+A place for [Barkeley](https://barkeley.band) to track progress learning guitar songs and helpful resources found along the way.
 
 # Resources
 
