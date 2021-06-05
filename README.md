@@ -20,6 +20,11 @@ A place for [Barkeley](https://barkeley.band) to track progress learning guitar 
 - [Fender Player Stratocaster HSS Plus Top Maple Fingerboard Limited-Edition Electric Guitar (Blue Burst)](https://www.guitarcenter.com/Fender/Player-Stratocaster-HSS-Plus-Top-Maple-Fingerboard-Limited-Edition-Electric-Guitar-Blue-Burst-1500000257004.gc)
 - [Pedalboard](https://github.com/bfroggio/guitar/blob/main/pedalboard.md)
 - [Blackstar Fly 3 Mini Guitar Amp](https://www.blackstaramps.com/uk/products/fly-3)
+- ["Hercules GS414B Plus" guitar stand](https://www.sweetwater.com/store/detail/GS414BPlus--hercules-stands-gs414b-plus-hanging-guitar-stand-with-auto-grip-system)
+- [Gruv FretWrap (small)](https://www.sweetwater.com/store/detail/FretWrapSmW--gruv-gear-fretwraps-single-pack-small-white)
+- [Fender strap locks](https://www.sweetwater.com/store/detail/0990819010--fender-strap-blocks-strap-locking-system-set-of-4-black-daphne-blue)
+- [Pick holder](https://www.amazon.com/dp/B07RQP7BXN/ref=cm_sw_r_oth_api_glt_fabc_8XNCYND49QBFSDW8CY4P)
+- [Peg winder](https://www.sweetwater.com/store/detail/EB9604--ernie-ball-pegwinder-plus)
 
 # Guitar Song Collection ([Spotify playlist](https://open.spotify.com/playlist/720tO9EFSrf8DqXsNrNGbt?si=36G3s4OWTn-qkDMgn4Cjow))
 
