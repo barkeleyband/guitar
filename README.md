@@ -14,6 +14,7 @@ A place for [Barkeley](https://barkeley.band) to track progress learning guitar 
 - [Getting Rid of Guitar Noise](https://guitargearfinder.com/guides/faq-getting-rid-of-guitar-hum-buzz-and-noise-issues/)
 - [Fender Owner's Manual](https://www.fmicassets.com/Damroot/Original/10001/leg_gtr_2013_Fender_Electric_Guitars_Owners_Manual_(English).pdf)
 - [Stratocaster tremolo tips](https://www.earthquakerdevices.com/blog-posts/highs-and-tremo-lows?utm_campaign=later-linkinbio-earthquakerdev&utm_content=later-13558459&utm_medium=social&utm_source=instagram)
+- [Warmup Exercise](https://vm.tiktok.com/ZMdPo8R3r/)
 
 # Gear
 
